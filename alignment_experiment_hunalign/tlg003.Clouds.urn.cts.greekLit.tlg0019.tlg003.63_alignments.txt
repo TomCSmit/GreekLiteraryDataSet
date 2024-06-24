@@ -1,0 +1,27 @@
+How pleasant it is to be acquainted with new and clever things, and to be able to despise the established laws!	ὡς ἡδὺ καινοῖς πράγμασιν καὶ δεξιοῖς ὁμιλεῖν, καὶ τῶν καθεστώτων νόμων ὑπερφρονεῖν δύνασθαι.	0.0423913
+	ἐγὼ γὰρ ὅτε μὲν ἱππικῇ τὸν νοῦν μόνῃ προσεῖχον, οὐδʼ ἂν τρίʼ εἰπεῖν ῥήμαθʼ οἷός τʼ ἦν πρὶν ἐξαμαρτεῖν·	-0.3
+For I, when I applied my mind to horsemanship alone, used not to be able to utter three words before I made a mistake; but now, since he himself has made me cease from these pursuits, and I am acquainted with subtle thoughts, and arguments, and speculations, I think I shall demonstrate that it is just to chastise one's father.	νυνὶ δʼ ἐπειδή μʼ οὑτοσὶ τούτων ἔπαυσεν αὐτός, γνώμαις δὲ λεπταῖς καὶ λόγοις ξύνειμι καὶ μερίμναις, οἶμαι διδάξειν ὡς δίκαιον τὸν πατέρα κολάζειν.	0.287259
+Ride, then, by Jupiter! ~~~ Since it is better for me to keep a team of four horses than to be killed with a beating.	ἵππευε τοίνυν νὴ Δίʼ, ὡς ἔμοιγε κρεῖττόν ἐστιν ἵππων τρέφειν τέθριππον ἢ τυπτόμενον ἐπιτριβῆναι.	-0.132258
+I will pass over to that part of my discourse where you interrupted me; and first I will ask you this: Did you beat me when I was a boy?	ἐκεῖσε δʼ ὅθεν ἀπέσχισάς με τοῦ λόγου μέτειμι, καὶ πρῶτʼ ἐρήσομαί σε τουτί·	0.227778
+I did, through good-will and concern for you.	παῖδά μʼ ὄντʼ ἔτυπτες;	0.284615
+	ἔγωγέ σʼ εὐνοῶν τε καὶ κηδόμενος.	-0.3
+	εἰπὲ δή μοι, οὐ κἀμέ σοι δίκαιόν ἐστιν εὐνοεῖν ὁμοίως τύπτειν τʼ, ἐπειδήπερ γε τοῦτʼ ἐστʼ εὐνοεῖν τὸ τύπτειν;	-0.3
+Pray tell me, is it not just that I also should be well inclined toward you in the same way, and beat you, since this is to be well inclined-to give a beating?	πῶς γὰρ τὸ μὲν σὸν σῶμα χρὴ πληγῶν ἀθῷον εἶναι, τοὐμὸν δὲ μή;	0.254054
+For why ought your body to be exempt from blows and mine not?	καὶ μὴν ἔφυν ἐλεύθερός γε κἀγώ.	0.258
+And yet I too was born free.	κλάουσι παῖδες, πατέρα δʼ οὐ κλάειν δοκεῖς;	-0.391304
+The boys weep, and do you not think it is right that a father should weep?	φήσεις νομίζεσθαι σὺ παιδὸς τοῦτο τοὔργον εἶναι·	0.15
+You will say that it is ordained by law that this should be the lot of boys.	ἐγὼ δέ γʼ ἀντείποιμʼ ἂν ὡς δὶς παῖδες οἱ γέροντες·	0.152459
+But I would reply, that old men are boys twice over, and that it is the more reasonable that the old should weep than the young, inasmuch as it is less just that they should err.	εἰκὸς δὲ μᾶλλον τοὺς γέροντας ἢ νέους τι κλάειν, ὅσῳπερ ἐξαμαρτάνειν ἧττον δίκαιον αὐτούς.	0.258333
+It is nowhere ordained by law that a father should suffer this.	ἀλλʼ οὐδαμοῦ νομίζεται τὸν πατέρα τοῦτο πάσχειν.	0.0962264
+Was it not then a man like you and me, who first proposed this law, and by speaking persuaded the ancients?	οὔκουν ἀνὴρ ὁ τὸν νόμον θεὶς τοῦτον ἦν τὸ πρῶτον ὥσπερ σὺ κἀγώ, καὶ λέγων ἔπειθε τοὺς παλαιούς;	0.0170455
+	ἧττόν τι δῆτʼ ἔξεστι κἀμοὶ καινὸν αὖ τὸ λοιπὸν θεῖναι νόμον τοῖς υἱέσιν, τοὺς πατέρας ἀντιτύπτειν;	-0.3
+	ὅσας δὲ πληγὰς εἴχομεν πρὶν τὸν νόμον τεθῆναι, ἀφίεμεν, καὶ δίδομεν αὐτοῖς προῖκα συγκεκόφθαι.	-0.3
+Why then is it less lawful for me also in turn to propose henceforth a new law for the sons, that they should beat their fathers in turn?	σκέψαι δὲ τοὺς ἀλεκτρυόνας καὶ τἄλλα τὰ βοτὰ ταυτί, ὡς τοὺς πατέρας ἀμύνεται·	0.221622
+But as many blows as we received before the law was made, we remit: and we concede to them our having been thrashed without return.	καίτοι τί διαφέρουσιν ἡμῶν ἐκεῖνοι, πλήν γʼ ὅτι ψηφίσματʼ οὐ γράφουσιν;	0.247222
+Observe the cocks and these other animals, how they punish their fathers; and yet, in what do they differ from us, except that they do not write decrees?	τί δῆτʼ, ἐπειδὴ τοὺς ἀλεκτρυόνας ἅπαντα μιμεῖ, οὐκ ἐσθίεις καὶ τὴν κόπρον κἀπὶ ξύλου καθεύδεις;	0.191339
+Why then, since you imitate the cocks in all things, do you not both eat dung and sleep on a perch?	οὐ ταὐτὸν ὦ τᾶν ἐστίν, οὐδʼ ἂν Σωκράτει δοκοίη.	0.28125
+It is not the same thing, my friend; nor would it appear so to Socrates.	πρὸς ταῦτα μὴ τύπτʼ·	0.134211
+Therefore do not beat me; otherwise you will one day blame yourself.	εἰ δὲ μή, σαυτόν ποτʼ αἰτιάσει.	0.277778
+Why, how?	καὶ πῶς;	0.0666667
+Since I am justly entitled to chastise you; and you to chastise your son, if you should have one.	ἐπεὶ σὲ μὲν δίκαιός εἰμʼ ἐγὼ κολάζειν, σὺ δʼ, ἢν γένηταί σοι, τὸν υἱόν.	0.135
+But if I should not have one, I shall have wept for nothing, and you will die laughing at me.	ἢν δὲ μὴ γένηται, μάτην ἐμοὶ κεκλαύσεται, σὺ δʼ ἐγχανὼν τεθνήξεις.	0.128

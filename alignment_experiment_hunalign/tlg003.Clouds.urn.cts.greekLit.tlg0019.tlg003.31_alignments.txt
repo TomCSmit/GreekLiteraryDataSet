@@ -1,0 +1,27 @@
+And many others too; but whatever I learned on each occasion I used to forget immediately, through length of years.	ἀλλʼ ὅ τι μάθοιμʼ ἑκάστοτε, ἐπελανθανόμην ἂν εὐθὺς ὑπὸ πλήθους ἐτῶν.	0.210309
+Is it for this reason, pray, that you have also lost your cloak?	διὰ ταῦτα δὴ καὶ θοἰμάτιον ἀπώλεσας;	0.215094
+I have not lost it; but have studied it away.	ἀλλʼ οὐκ ἀπολώλεκʼ, ἀλλὰ καταπεφρόντικα.	-0.0162162
+What have you made of your slippers, you foolish man?	τὰς δʼ ἐμβάδας ποῖ τέτροφας ὦνόητε σύ;	0.146667
+I have expended them, like Pericles, for needful purposes.	ὥσπερ Περικλέης ἐς τὸ δέον ἀπώλεσα.	0.223529
+Come, move, let us go.	ἀλλʼ ἴθι βάδιζʼ, ἴωμεν·	-0.0789474
+And then if you obey your father, go wrong if you like.	εἶτα τῷ πατρὶ πιθόμενος ἐξάμαρτε·	0.18
+I also know that I formerly obeyed you, a lisping child of six years old, and bought you a go-cart at the Diasia, with the first obolus I received from the Heliaea.	κἀγώ τοί ποτε, οἶδʼ, ἑξέτει σοι τραυλίσαντι πιθόμενος, ὃν πρῶτον ὀβολὸν ἔλαβον ἡλιαστικόν, τούτου ʼπριάμην σοι Διασίοις ἁμαξίδα.	0.0895522
+You will assuredly some time at length be grieved at this.	ἦ μὴν σὺ τούτοις τῷ χρόνῳ ποτʼ ἀχθέσει.	0.171429
+It is well done of you that you obeyed.	εὖ γʼ ὅτι ἐπείσθης.	0.271875
+Come hither, come hither O Socrates!	δεῦρο δεῦρʼ ὦ Σώκρατες, ἔξελθʼ·	0.05625
+Come forth, for I bring to you this son of mine, having persuaded him against his will.	ἄγω γάρ σοι τὸν υἱὸν τουτονὶ ἄκοντʼ ἀναπείσας.	0.245833
+For he is still childish, and not used to the baskets here.	νηπύτιος γάρ ἐστʼ ἔτι, καὶ τῶν κρεμαθρῶν οὔπω τρίβων τῶν ἐνθάδε.	-0.104082
+You would yourself be used to them if you were hanged.	αὐτὸς τρίβων εἴης ἄν, εἰ κρέμαιό γε.	0.173333
+A mischief take you!	οὐκ ἐς κόρακας;	0.133333
+Do you abuse your teacher? ~~~ Were hanged quoth 'a!	καταρᾷ σὺ τῷ διδασκάλῳ;	-0.00348837
+How sillily he pronounced it, and with lips wide apart!	ἰδοὺ κρέμαιʼ, ὡς ἠλίθιον ἐφθέγξατο καὶ τοῖσι χείλεσιν διερρυηκόσιν.	-0.191489
+How can this youth ever learn an acquittal from a trial or a legal summons, or persuasive refutation?	πῶς ἂν μάθοι ποθʼ οὗτος ἀπόφυξιν δίκης ἢ κλῆσιν ἢ χαύνωσιν ἀναπειστηρίαν;	0.134118
+And yet Hyperbolus learned this at the cost of a talent.	καίτοι γε ταλάντου τοῦτʼ ἔμαθεν Ὑπέρβολος.	0.108511
+Never mind; teach him.	ἀμέλει δίδασκε·	0.15
+He is clever by nature.	θυμόσοφός ἐστιν φύσει·	-0.03
+Indeed, from his earliest years, when he was a little fellow only so big, he was wont to form houses and carve ships within-doors, and make little wagons of leather, and make frogs out of pomegranate-rinds, you can't think how cleverly.	εὐθύς γέ τοι παιδάριον ὄν τυννουτονὶ ἔπλαττεν ἔνδον οἰκίας ναῦς τʼ ἔγλυφεν, ἁμαξίδας τε σκυτίνας ἠργάζετο, κἀκ τῶν σιδίων βατράχους ἐποίει πῶς δοκεῖς.	0.190355
+But see that he learns those two causes; the better, whatever it may be; and the worse, which, by maintaining what is unjust, overturns the better.	ὅπως δʼ ἐκείνω τὼ λόγω μαθήσεται, τὸν κρείττονʼ ὅστις ἐστὶ καὶ τὸν ἥττονα, ὃς τἄδικα λέγων ἀνατρέπει τὸν κρείττονα·	0.095122
+If not both, at any rate the unjust one by all means.	ἐὰν δὲ μή, τὸν γοῦν ἄδικον πάσῃ τέχνῃ.	0.118605
+He shall learn it himself from the two causes in person.	αὐτὸς μαθήσεται παρʼ αὐτοῖν τοῖν λόγοιν.	0.121277
+I will take my departure.	ἐγὼ δʼ ἀπέσομαι.	0.177273
+Remember this now, that he is to be able to reply to all just arguments.	τοῦτό νυν μέμνησʼ, ὅπως πρὸς πάντα τὰ δίκαιʼ ἀντιλέγειν δυνήσεται.	0

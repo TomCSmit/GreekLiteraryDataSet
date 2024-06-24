@@ -1,0 +1,19 @@
+Attatai! ~~~ Attatai!	ἀτταταῖ ἀτταταῖ.	-0.118421
+What ails you?	τί πάσχεις;	0.138462
+Why are you distressed?	τί κάμνεις;	0.285
+Wretched man, I am perishing!	ἀπόλλυμαι δείλαιος·	0.161538
+The Corinthians, coming out from the bed, are biting me, and devouring my sides, and drinking up my life-blood, and tearing away my flesh, and digging through my vitals, and will annihilate me.	ἐκ τοῦ σκίμποδος δάκνουσί μʼ ἐξέρποντες οἱ Κορίνθιοι, καὶ τὰς πλευρὰς δαρδάπτουσιν καὶ τὴν ψυχὴν ἐκπίνουσιν καὶ τοὺς ὄρχεις ἐξέλκουσιν καὶ τὸν πρωκτὸν διορύττουσιν, καί μʼ ἀπολοῦσιν.	-0.0111111
+Do not now be very grievously distressed.	μή νυν βαρέως ἄλγει λίαν.	0.241667
+Why, how, when my money is gone, my complexion gone, my life gone, and my slipper gone?	καὶ πῶς; ~~~ ὅτε μου φροῦδα τὰ χρήματα, φρούδη χροιά, φρούδη ψυχή, φρούδη δʼ ἐμβάς·	-0.1
+And furthermore in addition to these evils, with singing the night-watches, I am almost gone myself.	καὶ πρὸς τούτοις ἔτι τοῖσι κακοῖς φρουρᾶς ᾄδων ὀλίγου φροῦδος γεγένημαι.	0.136047
+Ho you! ~~~ What are you about?	οὗτος τί ποιεῖς;	-0.03
+Are you not meditating? ~~~ I?	οὐχὶ φροντίζεις;	-0.042
+Yea, by Neptune!	ἐγώ;	0.1
+And what, pray, have you thought?	νὴ τὸν Ποσειδῶ.	0.3
+Whether any bit of me will be left by the bugs.	καὶ τί δῆτʼ ἐφρόντισας;	0.260526
+	ὑπὸ τῶν κόρεων εἴ μού τι περιλειφθήσεται.	-0.3
+You will perish most wretchedly.	ἀπολεῖ κάκιστʼ.	0.289655
+But, my good friend, I have already perished.	ἀλλʼ ὦγάθʼ ἀπόλωλʼ ἀρτίως.	0.215385
+	οὐ μαλθακιστέʼ ἀλλὰ περικαλυπτέα.	-0.3
+You must not give in, but must wrap yourself up; for you have to discover a device for abstracting, and a means of cheating.	ἐξευρετέος γὰρ νοῦς ἀποστερητικὸς κἀπαιόλημʼ.	0.252273
+Ah me! ~~~ Would, pray, some one would throw over me a swindling contrivance from the sheep-skins.	οἴμοι τίς ἂν δῆτʼ ἐπιβάλοι ἐξ ἀρνακίδων γνώμην ἀποστερητρίδα;	-0.0567073

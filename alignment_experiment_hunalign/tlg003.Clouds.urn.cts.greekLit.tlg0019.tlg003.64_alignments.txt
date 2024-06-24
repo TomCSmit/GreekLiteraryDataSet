@@ -1,0 +1,11 @@
+To me, indeed, O comrades, he seems to speak justly; and I think we ought to concede to them what is fitting.	ἐμοὶ μὲν ὦνδρες ἥλικες δοκεῖ λέγειν δίκαια·	0.27037
+For it is proper that we should weep, if we do not act justly.	κἄμοιγε συγχωρεῖν δοκεῖ τούτοισι τἀπιεικῆ.	0.114
+	κλάειν γὰρ ἡμᾶς εἰκός ἐστʼ, ἢν μὴ δίκαια δρῶμεν.	-0.3
+Consider still another maxim. ~~~ No; for I shall perish if I do.	σκέψαι δὲ χἀτέραν ἔτι γνώμην.	0
+And yet perhaps you will not be vexed at suffering what you now suffer.	ἀπὸ γὰρ καὶ μὴν ἴσως γʼ οὐκ ἀχθέσει παθὼν ἃ νῦν πέπονθας.	0.0762712
+How, pray?	πῶς δή;	0.21
+	δίδαξον γὰρ τί μʼ ἐκ τούτων ἐπωφελήσεις.	-0.3
+For inform me what good you will do me by this.	τὴν μητέρʼ ὥσπερ καὶ σὲ τυπτήσω.	0.142105
+I will beat my mother, just as I have you.	τί φῄς, τί φῂς σύ;	0.248276
+What do you say? ~~~ What do you say?	τοῦθʼ ἕτερον αὖ μεῖζον κακόν.	-0.12931
+This other, again, is a greater wickedness.	τί δʼ ἢν ἔχων τὸν ἥττω	0.292105

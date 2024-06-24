@@ -1,0 +1,24 @@
+Hollo!	ἰοὺ ἰού.	-0.128571
+	ὦ γείτονες καὶ ξυγγενεῖς καὶ δημόται, ἀμυνάθετέ μοι τυπτομένῳ πάσῃ τέχνῃ.	-0.3
+O neighbours, and kinsfolk, and fellow-tribesmen, defend me, by all means, who am being beaten!	οἴμοι κακοδαίμων τῆς κεφαλῆς καὶ τῆς γνάθου.	0.296296
+Ah me, unhappy man, for my head and jaw! ~~~ Wretch!	ὦ μιαρὲ τύπτεις τὸν πατέρα;	-0.025
+Do you beat your father?	φήμʼ ὦ πάτερ.	0.271429
+Yes, father. ~~~ You see him owning that he beats me.	ὁρᾶθʼ ὁμολογοῦνθʼ ὅτι με τύπτει.	-0.0627907
+Certainly.	καὶ μάλα.	0.136364
+O wretch, and parricide, and house-breaker!	ὦ μιαρὲ καὶ πατραλοῖα καὶ τοιχωρύχε.	0.0846154
+Say the same things of me again, and more.	αὖθίς με ταὐτὰ ταῦτα καὶ πλείω λέγε.	0.0428571
+Do you know that I take pleasure in being much abused?	ἆρʼ οἶσθʼ ὅτι χαίρω πόλλʼ ἀκούων καὶ κακά;	0.1
+You blackguard!	ὦ λακκόπρωκτε.	0.06
+Sprinkle me with roses in abundance.	πάττε πολλοῖς τοῖς ῥόδοις.	0.140625
+Do you beat your father?	τὸν πατέρα τύπτεις;	0.1
+And will prove too, by Jupiter! ~~~ that I beat you with justice.	κἀποφανῶ γε νὴ Δία ὡς ἐν δίκῃ σʼ ἔτυπτον.	-0.0566038
+O thou most rascally! ~~~ Why, how can it be just to beat a father?	ὦ μιαρώτατε, καὶ πῶς γένοιτʼ ἂν πατέρα τύπτειν ἐν δίκῃ;	-0.124528
+I will demonstrate it, and will overcome you in argument.	ἔγωγʼ ἀποδείξω καί σε νικήσω λέγων.	0.220408
+Will you overcome me in this?	τουτὶ σὺ νικήσεις;	0.192
+Yea, by much and easily.	πολύ γε καὶ ῥᾳδίως.	0.1
+But choose which of the two Causes you wish to speak.	ἑλοῦ δʼ ὁπότερον τοῖν λόγοιν βούλει λέγειν.	0.0681818
+Of what two Causes?	ποίοιν λόγοιν;	0.141176
+The better, or the worse?	τὸν κρείττονʼ ἢ τὸν ἥττονα.	-0.0818182
+Marry, I did get you taught to speak against justice, by Jupiter, my friend, if you are going to persuade me of this, that it is just and honourable for a father to be beaten by his sons!	ἐδιδαξάμην μέντοι σε νὴ Δίʼ ὦ μέλε τοῖσιν δικαίοις ἀντιλέγειν, εἰ ταῦτά γε μέλλεις ἀναπείσειν, ὡς δίκαιον καὶ καλὸν τὸν πατέρα τύπτεσθʼ ἐστὶν ὑπὸ τῶν υἱέων.	0.0476821
+I think I shall certainly persuade you; so that, when you have heard, not even you yourself will say anything against it.	ἀλλʼ οἴομαι μέντοι σʼ ἀναπείσειν, ὥστε γε οὐδʼ αὐτὸς ἀκροασάμενος οὐδὲν ἀντερεῖς.	0.151485
+Well, now, I am willing to hear what you have to say.	καὶ μὴν ὅ τι καὶ λέξεις ἀκοῦσαι βούλομαι.	0.0837209

@@ -1,0 +1,35 @@
+Tell me now, what do you prescribe?	λέγε δή, τί κελεύεις;	0.25
+And will you obey me at all?	καί τι πείσει;	0.286957
+By Bacchus, I will obey you.	πείσομαι νὴ τὸν Διόνυσον.	0.025
+Look this way then!	δεῦρό νυν ἀπόβλεπε.	-0.0352941
+Do you see this little door and little house?	ὁρᾷς τὸ θύριον τοῦτο καὶ τᾠκίδιον;	0.0947368
+I see it.	ὁρῶ.	0.225
+What then, pray, is this, father?	τί οὖν τοῦτʼ ἐστὶν ἐτεὸν ὦ πάτερ;	-0.0310345
+This is a thinking-shop of wise spirits.	ψυχῶν σοφῶν τοῦτʼ ἐστὶ φροντιστήριον.	-0.00857143
+There dwell men who in speaking of the heavens persuade people that it is an oven, and that it encompasses us, and that we are the embers.	ἐνταῦθʼ ἐνοικοῦσʼ ἄνδρες, οἳ τὸν οὐρανὸν λέγοντες ἀναπείθουσιν ὡς ἔστιν πνιγεύς, κἄστιν περὶ ἡμᾶς οὗτος, ἡμεῖς δʼ ἄνθρακες.	-0.0079646
+These men teach, if one give them money, to conquer in speaking, right or wrong.	οὗτοι διδάσκουσʼ, ἀργύριον ἤν τις διδῷ, λέγοντα νικᾶν καὶ δίκαια κἄδικα.	0.0223881
+Who are they?	εἰσὶν δὲ τίνες;	-0.125
+I do not know the name accurately.	οὐκ οἶδʼ ἀκριβῶς τοὔνομα·	0.0827586
+They are minute philosophers, noble and excellent.	μεριμνοφροντισταὶ καλοί τε κἀγαθοί.	0.16
+Bah! ~~~ They are rogues; I know them.	αἰβοῖ πονηροί γʼ, οἶδα.	-0.0532258
+You mean the quacks, the pale-faced wretches, the bare-footed fellows, of whose numbers are the miserable Socrates and Chaerephon.	τοὺς ἀλαζόνας τοὺς ὠχριῶντας τοὺς ἀνυποδήτους λέγεις, ὧν ὁ κακοδαίμων Σωκράτης καὶ Χαιρεφῶν.	0.148673
+Hold! ~~~ Hold!	ἢ ἢ σιώπα·	-0.0692308
+Be silent! ~~~ Do not say anything foolish.	μηδὲν εἴπῃς νήπιον.	-0.00416667
+But, if you have any concern for your father's patrimony, become one of them, having given up your horsemanship.	ἀλλʼ εἴ τι κήδει τῶν πατρῴων ἀλφίτων, τούτων γενοῦ μοι σχασάμενος τὴν ἱππικήν.	0.161053
+I would not, by Bacchus, even if you were to give me the pheasants which Leogoras rears!	οὐκ ἂν μὰ τὸν Διόνυσον, εἰ δοίης γέ μοι τοὺς φασιανοὺς οὓς τρέφει Λεωγόρας.	0.0616438
+Go, I entreat you, dearest of men, go and be taught.	ἴθʼ ἀντιβολῶ σʼ ὦ φίλτατʼ ἀνθρώπων ἐμοὶ ἐλθὼν διδάσκου.	-0.118605
+Why, what shall I learn?	καὶ τί σοι μαθήσομαι;	0.0714286
+They say that among them are both the two causes--the better cause, whichever that is, and the worse: they say that the one of these two causes, the worse, prevails, though it speaks on the unjust side.	εἶναι παρʼ αὐτοῖς φασιν ἄμφω τὼ λόγω, τὸν κρείττονʼ, ὅστις ἐστί, καὶ τὸν ἥττονα.	0.247183
+If, therefore you learn for me this unjust cause, I would not pay any one, not even an obolus of these debts, which I owe at present on your account.	τούτοιν τὸν ἕτερον τοῖν λόγοιν, τὸν ἥττονα, νικᾶν λέγοντά φασι τἀδικώτερα.	0.270248
+I can not comply; for I should not dare to look upon the knights, having lost all my colour.	ἢν οὖν μάθῃς μοι τὸν ἄδικον τοῦτον λόγον, ἃ νῦν ὀφείλω διὰ σέ, τούτων τῶν χρεῶν οὐκ ἂν ἀποδοίην οὐδʼ ἂν ὀβολὸν οὐδενί.	-0.24
+Then, by Ceres, you shall not eat any of my good!	οὐκ ἂν πιθοίμην·	0.212903
+	οὐ γὰρ ἂν τλαίην ἰδεῖν τοὺς ἱππέας τὸ χρῶμα διακεκναισμένος.	-0.3
+	οὐκ ἄρα μὰ τὴν Δήμητρα τῶν γʼ ἐμῶν ἔδει, οὔτʼ αὐτὸς οὔθʼ ὁ ζύγιος οὔθʼ ὁ σαμφόρας·	-0.3
+Neither you, nor your blood-horse; but I will drive you out of my house to the crows.	ἀλλʼ ἐξελῶ σʼ ἐς κόρακας ἐκ τῆς οἰκίας.	0.295714
+My uncle Megacles will not permit me to be without a horse.	ἀλλʼ οὐ περιόψεταί μʼ ὁ θεῖος Μεγακλέης ἄνιππον.	0.0673469
+But I'll go in, and pay no heed to you.	ἀλλʼ εἴσειμι, σοῦ δʼ οὐ φροντιῶ.	0.0387097
+Though fallen, still I will not lie prostrate: but having prayed to the gods, I will go myself to the thinking-shop and get taught.	ἀλλʼ οὐδʼ ἐγὼ μέντοι πεσών γε κείσομαι, ἀλλʼ εὐξάμενος τοῖσιν θεοῖς διδάξομαι αὐτὸς βαδίζων ἐς τὸ φροντιστήριον.	0.0412844
+How, then, being an old man, shall I learn the subtleties of refined disquisitions?	πῶς οὖν γέρων ὢν κἀπιλήσμων καὶ βραδὺς λόγων ἀκριβῶν σχινδαλάμους μαθήσομαι;	0.0084507
+I must go.	ἰτητέον.	0.0333333
+Why thus do I loiter and not knock at the door?	τί ταῦτʼ ἔχων στραγγεύομαι, ἀλλʼ οὐχὶ κόπτω τὴν θύραν;	-0.165789
+Boy! ~~~ Little boy!	παῖ παιδίον.	-0.0529412

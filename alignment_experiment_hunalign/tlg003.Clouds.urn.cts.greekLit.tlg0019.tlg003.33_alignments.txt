@@ -1,0 +1,15 @@
+You are shamefully squalid.	αὐχμεῖς αἰσχρῶς.	0.192
+And you are prosperous.	σὺ δέ γʼ εὖ πράττεις.	0.0857143
+And yet formerly you were a beggar saying that you were the Mysian Telephus, and gnawing the maxims of Pandeletus out of your little wallet.	καίτοι πρότερόν γʼ ἐπτώχευες, Τήλεφος εἶναι Μυσὸς φάσκων, ἐκ πηριδίου γνώμας τρώγων Πανδελετείους.	0.153846
+	ὤμοι σοφίας — ὤμοι μανίας — ἧς ἐμνήσθης — τῆς σῆς, πόλεώς θʼ ἥτις σε τρέφει λυμαινόμενον τοῖς μειρακίοις.	-0.3
+Oh, the wisdom-- Oh, the madness-- Which you have mentioned.	οὐχὶ διδάξεις τοῦτον Κρόνος ὤν.	0.265385
+And of your city, which supports you who ruin her youths. ~~~ You shan't teach this youth, you old dotard.	εἴπερ γʼ αὐτὸν σωθῆναι χρὴ καὶ μὴ λαλιὰν μόνον ἀσκῆσαι.	-0.0258621
+Yes, if he is to be saved, and not merely to practise loquacity.	δεῦρʼ ἴθι, τοῦτον δʼ ἔα μαίνεσθαι.	0.254717
+Come hither, and leave him to rave. ~~~ You shall howl, if you lay your hand on him.	κλαύσει, τὴν χεῖρʼ ἢν ἐπιβάλλῃς.	-0.0175
+Cease from contention and railing.	παύσασθε μάχης καὶ λοιδορίας.	0.0870968
+But show to us, you, what you used to teach the men of former times, and you, the new system of education; in order that, having heard you disputing, he may decide and go to the school of one or the other.	ἀλλʼ ἐπίδειξαι σύ τε τοὺς προτέρους ἅττʼ ἐδίδασκες, σύ τε τὴν καινὴν παίδευσιν, ὅπως ἂν ἀκούσας σφῷν ἀντιλεγόντοιν κρίνας φοιτᾷ.	0.183636
+I am willing to do so.	δρᾶν ταῦτʼ ἐθέλω.	0.05
+I also am willing.	κἄγωγʼ ἐθέλω.	0.1125
+Come now, which of the two shall speak first?	φέρε δὴ πότερος λέξει πρότερος;	0.165789
+I will give him the precedence; and then, from these things which he adduces, I will shoot him dead with new words and thoughts.	τούτῳ δώσω· ~~~ κᾆτʼ ἐκ τούτων ὧν ἂν λέξῃ ῥηματίοισιν καινοῖς αὐτὸν καὶ διανοίαις κατατοξεύσω.	-0.0537736
+And at last, if he mutter, he shall be destroyed, being stung in his whole face and his two eyes by my maxims, as if by bees.	τὸ τελευταῖον δʼ, ἢν ἀναγρύζῃ, τὸ πρόσωπον ἅπαν καὶ τὠφθαλμὼ κεντούμενος ὥσπερ ὑπʼ ἀνθρηνῶν ὑπὸ τῶν γνωμῶν ἀπολεῖται.	-0.054

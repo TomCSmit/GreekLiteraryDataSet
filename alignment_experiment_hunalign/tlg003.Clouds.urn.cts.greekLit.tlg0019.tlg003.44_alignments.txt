@@ -1,0 +1,21 @@
+Nay, what could he ever suffer still greater than this?	τί δῆτʼ ἐρεῖς, ἢν τοῦτο νικηθῇς ἐμοῦ;	0.159574
+What then will you say if you be conquered by me in this?	σιγήσομαι. ~~~ τί δʼ ἄλλο;	-0.0225
+I will be silent: what else can I do?	φέρε δή μοι φράσον·	0.27
+Come, now, tell me; from what class do the advocates come?	συνηγοροῦσιν ἐκ τίνων;	0.25
+From the blackguards.	ἐξ εὐρυπρώκτων.	0.15
+I believe you.	πείθομαι.	0.184615
+What then?	τί δαί;	0.24
+From what class do tragedians come?	τραγῳδοῦσʼ ἐκ τίνων;	0.222581
+From the blackguards.	ἐξ εὐρυπρώκτων.	0.15
+You say well.	εὖ λέγεις.	0.125
+But from what class do the public orators come?	δημηγοροῦσι δʼ ἐκ τίνων;	0.27
+From the blackguards.	ἐξ εὐρυπρώκτων.	0.15
+Then have you perceived that you say nothing to the purpose?	ἆρα δῆτʼ ἔγνωκας ὡς οὐδὲν λέγεις;	0.235294
+And look which class among the audience is the more numerous.	καὶ τῶν θεατῶν ὁπότεροι πλείους σκόπει.	0.184615
+Well now, I'm looking.	καὶ δὴ σκοπῶ.	0.225
+What, then, do you see?	τί δῆθʼ ὁρᾷς;	0.225
+By the gods, the blackguards to be far more numerous.	πολὺ πλείονας νὴ τοὺς θεοὺς τοὺς εὐρυπρώκτους·	0.02
+This fellow, at any rate, I know; and him yonder; and this fellow with the long hair.	τουτονὶ γοῦν οἶδʼ ἐγὼ κἀκεινονὶ καὶ τὸν κομήτην τουτονί.	0.15
+What, then, will you say?	τί δῆτʼ ἐρεῖς;	0.231818
+We are conquered.	ἡττήμεθʼ·	0.225
+Ye blackguards, by the gods, receive my cloak, for I desert to you.	ὦ κινούμενοι πρὸς τῶν θεῶν δέξασθέ μου θοἰμάτιον, ὡς ἐξαυτομολῶ πρὸς ὑμᾶς.	-0.128571

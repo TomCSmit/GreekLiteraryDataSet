@@ -1,0 +1,42 @@
+Come now; I will first see this fellow, what he is about.	φέρε νυν ἀθρήσω πρῶτον ὅ τι δρᾷ τουτονί.	0.153191
+Ho you! ~~~ Are you asleep?	οὗτος καθεύδεις;	-0.0613636
+No, by Apollo, I am not!	μὰ τὸν Ἀπόλλω ʼγὼ μὲν οὔ.	-0.09
+Have you got anything?	ἔχεις τι;	0.247059
+No; by Jupiter, certainly not!	μὰ Δίʼ οὐ δῆτʼ ἔγωγʼ.	0.177778
+Nothing at all?	οὐδὲν πάνυ;	0.128571
+Nothing, except what I have in my right hand.	οὐδέν γε πλὴν ἢ τὸ πέος ἐν τῇ δεξιᾷ.	0.102632
+Will you not quickly cover yourself up and think of something?	οὐκ ἐγκαλυψάμενος ταχέως τι φροντιεῖς;	0.198113
+About what?	περὶ τοῦ;	0.109091
+For do you tell me this, O Socrates!	σὺ γάρ μοι τοῦτο φράσον ὦ Σώκρατες.	-0.01
+Do you, yourself, first find out and state what you wish.	αὐτὸς ὅ τι βούλει πρῶτος ἐξευρὼν λέγε.	0.1625
+You have heard a thousand times what I wish. ~~~ About the interest; so that I may pay no one.	ἀκήκοας μυριάκις ἁγὼ βούλομαι, περὶ τῶν τόκων, ὅπως ἂν ἀποδῶ μηδενί.	-0.096
+Come then, wrap yourself up, and having given your mind play with subtilty, revolve your affairs by little and little, rightly distinguishing and examining.	ἴθι νῦν καλύπτου καὶ σχάσας τὴν φροντίδα λεπτὴν κατὰ μικρὸν περιφρόνει τὰ πράγματα, ὀρθῶς διαιρῶν καὶ σκοπῶν. ~~~ οἴμοι τάλας.	-0.0716418
+Ah me, unhappy man!	ἔχʼ ἀτρέμα·	0.194118
+Keep quiet; and if you be puzzled in any one of your conceptions, leave it and go; and then set your mind in motion again, and lock it up.	κἂν ἀπορῇς τι τῶν νοημάτων, ἀφεὶς ἄπελθε, κατὰ τὴν γνώμην πάλιν κίνησον αὖθις αὐτὸ καὶ ζυγώθρισον.	0.121622
+(in great glee). ~~~ O dearest little Socrates!	ὦ Σωκρατίδιον φίλτατον.	-0.01125
+What, old man?	τί ὦ γέρον;	0.161538
+I have got a device for cheating them of the interest.	ἔχω τόκου γνώμην ἀποστερητικήν.	0.213333
+Exhibit it.	ἐπίδειξον αὐτήν.	-0.272727
+Now tell me this, pray; if I were to purchase a Thessalian witch, and draw down the moon by night, and then shut it up, as if it were a mirror, in a round crest-case, and then carefully keep it- What good, pray, would this do you?	εἰπὲ δή νύν μοι — τὸ τί; ~~~ γυναῖκα φαρμακίδʼ εἰ πριάμενος Θετταλὴν καθέλοιμι νύκτωρ τὴν σελήνην, εἶτα δὴ αὐτὴν καθείρξαιμʼ ἐς λοφεῖον στρογγύλον, ὥσπερ κάτοπτρον, κᾆτα τηροίην ἔχων — τί δῆτα τοῦτʼ ἂν ὠφελήσειέν σʼ;	-0.121622
+What?	ὅ τι;	0.15
+If the moon were to rise no longer anywhere, I should not pay the interest.	εἰ μηκέτʼ ἀνατέλλοι σελήνη μηδαμοῦ, οὐκ ἂν ἀποδοίην τοὺς τόκους.	0.0387097
+Why so, pray?	ὁτιὴ τί δή;	0.1
+Because the money is lent out by the month.	ὁτιὴ κατὰ μῆνα τἀγύριον δανείζεται.	0.0416667
+Capital!	εὖ γʼ·	0.2
+But I will again propose to you another clever question.	ἀλλʼ ἕτερον αὖ σοι προβαλῶ τι δεξιόν.	0.1875
+If a suit of five talents should be entered against you, tell me how you would obliterate it.	εἴ σοι γράφοιτο πεντετάλαντός τις δίκη, ὅπως ἂν αὐτὴν ἀφανίσειας εἰπέ μοι.	0.0857143
+How?	ὅπως;	-0.06
+How?	ὅπως;	-0.06
+	οὐκ οἶδʼ·	-0.3
+I do not know but I must seek.	ἀτὰρ ζητητέον.	0.25
+Do not then always revolve your thoughts about yourself; but slack away your mind into the air, like a cock-chafer tied with a thread by the foot.	μή νυν περὶ σαυτὸν εἶλλε τὴν γνώμην ἀεί, ἀλλʼ ἀποχάλα τὴν φροντίδʼ ἐς τὸν ἀέρα λινόδετον ὥσπερ μηλολόνθην τοῦ ποδός.	0.0892562
+I have found a very clever method of getting rid of my suit, so that you yourself would acknowledge it.	ηὕρηκʼ ἀφάνισιν τῆς δίκης σοφωτάτην, ὥστʼ αὐτὸν ὁμολογεῖν σʼ ἐμοί.	0.169412
+Of what description?	ποίαν τινά;	0.284211
+Have you ever seen this stone in the chemist's shops, the beautiful and transparent one, from which they kindle fire?	ἤδη παρὰ τοῖσι φαρμακοπώλαις τὴν λίθον ταύτην ἑόρακας τὴν καλήν, τὴν διαφανῆ, ἀφʼ ἧς τὸ πῦρ ἅπτουσι;	0.0575758
+Do you mean the burning-glass?	τὴν ὕαλον λέγεις;	0.244444
+I do.	ἔγωγε.	-0.18
+Come what would you say, pray, if I were to take this, when the clerk was entering the suit, and were to stand at a distance, in the direction of the sun, thus, and melt out the letters of my suit?	φέρε τί δῆτʼ ἄν, εἰ ταύτην λαβών, ὁπότε γράφοιτο τὴν δίκην ὁ γραμματεύς, ἀπωτέρω στὰς ὧδε πρὸς τὸν ἥλιον τὰ γράμματʼ ἐκτήξαιμι τῆς ἐμῆς δίκης;	0.125316
+Cleverly done, by the Graces! ~~~ Oh!	σοφῶς γε νὴ τὰς Χάριτας.	-0.0580645
+How I am delighted, that a suit of five talents has been cancelled!	οἴμʼ ὡς ἥδομαι ὅτι πεντετάλαντος διαγέγραπταί μοι δίκη.	0.0642857
+Come now, quickly seize upon this.	ἄγε δὴ ταχέως τουτὶ ξυνάρπασον.	0.03
+What?	τὸ τί;	0.05

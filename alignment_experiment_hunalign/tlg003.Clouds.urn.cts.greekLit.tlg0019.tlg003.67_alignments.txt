@@ -1,0 +1,23 @@
+Ah me, what madness!	οἴμοι παρανοίας·	0.0666667
+How mad, then, I was when I ejected the gods on account of Socrates!	ὡς ἐμαινόμην ἄρα, ὅτʼ ἐξέβαλλον τοὺς θεοὺς διὰ Σωκράτη.	0.0589286
+But O dear Hermes, by no means be wroth with me, nor destroy me; but pardon me, since I have gone crazy through prating.	ἀλλʼ ὦ φίλʼ Ἑρμῆ μηδαμῶς θύμαινέ μοι μηδέ μʼ ἐπιτρίψῃς, ἀλλὰ συγγνώμην ἔχε ἐμοῦ παρανοήσαντος ἀδολεσχίᾳ·	0.0122449
+And become my adviser, whether I shall bring an action and prosecute them, or whatever you think.	καί μοι γενοῦ ξύμβουλος, εἴτʼ αὐτοὺς γραφὴν διωκάθω γραψάμενος εἴθʼ ὅ τι σοι δοκεῖ.	0.0621951
+You advise me rightly, not permitting me to get up a lawsuit, but as soon as possible to set fire to the house of the prating fellows.	ὀρθῶς παραινεῖς οὐκ ἐῶν δικορραφεῖν, ἀλλʼ ὡς τάχιστʼ ἐμπιμπράναι τὴν οἰκίαν τῶν ἀδολεσχῶν.	0.13211
+Come hither, come hither, Xanthias! ~~~ Come forth with a ladder and with a mattock and then mount upon the thinking-shop and dig down the roof, if you love your master, until you tumble the house upon them.	δεῦρο δεῦρʼ ὦ Ξανθία, κλίμακα λαβὼν ἔξελθε καὶ σμινύην φέρων, κἄπειτʼ ἐπαναβὰς ἐπὶ τὸ φροντιστήριον τὸ τέγος κατάσκαπτʼ, εἰ φιλεῖς τὸν δεσπότην, ἕως ἂν αὐτοῖς ἐμβάλῃς τὴν οἰκίαν·	-0.135
+But let some one bring me a lighted torch and I'll make some of them this day suffer punishment, even if they be ever so much impostors.	ἐμοὶ δὲ δᾷδʼ ἐνεγκάτω τις ἡμμένην, κἀγώ τινʼ αὐτῶν τήμερον δοῦναι δίκην ἐμοὶ ποιήσω, κεἰ σφόδρʼ εἴσʼ ἀλαζόνες.	0.0621622
+(from within) Hollo!	ἰοὺ ἰού.	0.264706
+Hollo! ~~~ It is your business, O torch, to send forth abundant flame.	σὸν ἔργον ὦ δᾲς ἱέναι πολλὴν φλόγα.	-0.0155172
+What are you doing, fellow?	ἄνθρωπε, τί ποιεῖς;	0.1625
+What am I doing?	ὅ τι ποιῶ;	0.214286
+Why, what else, than chopping logic with the beams of your house?	τί δʼ ἄλλο γʼ ἢ διαλεπτολογοῦμαι ταῖς δοκοῖς τῆς οἰκίας;	0.0490909
+(from within) You will destroy us! ~~~ You will destroy us!	οἴμοι τίς ἡμῶν πυρπολεῖ τὴν οἰκίαν;	-0.0520408
+For I also wish this very thing; unless my mattock deceive my hopes, or I should somehow fall first and break my neck.	ἐκεῖνος οὗπερ θοἰμάτιον εἰλήφατε.	0.152308
+(from within). ~~~ Hollo you!	ἀπολεῖς ἀπολεῖς.	-0.054
+	τοῦτʼ αὐτὸ γὰρ καὶ βούλομαι, ἢν ἡ σμινύη μοι μὴ προδῷ τὰς ἐλπίδας, ἢ ʼγὼ πρότερόν πως ἐκτραχηλισθῶ πεσών.	-0.3
+What are you doing, pray, you fellow on the roof?	οὗτος τί ποιεῖς ἐτεὸν οὑπὶ τοῦ τέγους;	0.0804878
+I am walking on air, and speculating about the sun.	ἀεροβατῶ καὶ περιφρονῶ τὸν ἥλιον.	0.153488
+Ah me, unhappy! ~~~ I shall be suffocated, wretched man!	οἴμοι τάλας δείλαιος ἀποπνιγήσομαι.	-0.0606383
+And I, miserable man, shall be burnt to death!	ἐγὼ δὲ κακοδαίμων γε κατακαυθήσομαι.	0.0846154
+For what has come into your heads that you acted insolently toward the gods, and pried into the seat of the moon?	τί γὰρ μαθόντες τοὺς θεοὺς ὑβρίζετε, καὶ τῆς σελήνης ἐσκοπεῖσθε τὴν ἕδραν;	0.164516
+Chase, pelt, smite them, for many reasons, but especially because you know that they offended against the gods!	δίωκε βάλλε παῖε, πολλῶν οὕνεκα, μάλιστα δʼ εἰδὼς τοὺς θεοὺς ὡς ἠδίκουν. ~~~ ἡγεῖσθʼ ἔξω·	-0.0536842
+Lead the way out; for we have sufficiently acted as chorus for today.	κεχόρευται γὰρ μετρίως τό γε τήμερον ἡμῖν.	0.212069

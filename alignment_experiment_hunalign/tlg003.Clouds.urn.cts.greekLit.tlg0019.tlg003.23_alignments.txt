@@ -1,0 +1,30 @@
+By Respiration, and Chaos, and Air, I have not seen any man so boorish, nor so impracticable, nor so stupid, nor so forgetful; who, while learning some little petty quibbles, forgets them before he has learned them.	μὰ τὴν Ἀναπνοὴν μὰ τὸ Χάος μὰ τὸν Ἀέρα οὐκ εἶδον οὕτως ἄνδρʼ ἄγροικον οὐδένα οὐδʼ ἄπορον οὐδὲ σκαιὸν οὐδʼ ἐπιλήσμονα·	0.238333
+	ὅστις σκαλαθυρμάτιʼ ἄττα μικρὰ μανθάνων ταῦτʼ ἐπιλέλησται πρὶν μαθεῖν·	-0.3
+Nevertheless I will certainly call him out here to the light.	ὅμως γε μὴν αὐτὸν καλῶ θύραζε δευρὶ πρὸς τὸ φῶς.	0.0980769
+Where is Strepsiades?	ποῦ Στρεψιάδης;	0.165
+Come forth with your couch. ~~~ (from within).	ἔξει τὸν ἀσκάντην λαβών;	-0.0230769
+The bugs do not permit me to bring it forth.	ἀλλʼ οὐκ ἐῶσί μʼ ἐξενεγκεῖν οἱ κόρεις.	0.00833333
+Make haste and lay it down; and give me your attention.	ἀνύσας τι κατάθου καὶ πρόσεχε τὸν νοῦν.	0.143478
+Very well.	ἰδού.	0.27
+Come now; what do you now wish to learn first of those things in none of which you have ever been instructed?	ἄγε δὴ τί βούλει πρῶτα νυνὶ μανθάνειν ὧν οὐκ ἐδιδάχθης πώποτʼ οὐδέν;	0.188764
+Tell me.	εἰπέ μοι.	-0.0375
+	πότερα περὶ μέτρων ἢ περὶ ἐπῶν ἢ ῥυθμῶν;	-0.3
+About measures, or rhythms, or verses?	περὶ τῶν μέτρων ἔγωγʼ·	0.229412
+I should prefer to learn about measures; for it is but lately I was cheated out of two choenices by a meal-huckster.	ἔναγχος γάρ ποτε ὑπʼ ἀλφιταμοιβοῦ παρεκόπην διχοινίκῳ.	0.284375
+I do not ask you this, but which you account the most beautiful measure; the trimetre or the tetrameter?	οὐ τοῦτʼ ἐρωτῶ σʼ, ἀλλʼ ὅ τι κάλλιστον μέτρον ἡγεῖ·	0.282759
+Make a wager then with me, if the semisextarius be not a tetrameter.	πότερα τὸ τρίμετρον ἢ τὸ τετράμετρον;	0.247368
+Go to the devil! ~~~ How boorish you are and dull of learning.	ἐγὼ μὲν οὐδὲν πρότερον ἡμιεκτέου.	-0.042
+Perhaps you may be able to learn about rhythms.	οὐδὲν λέγεις ὦνθρωπε.	0.2925
+	περίδου νυν ἐμοί, εἰ μὴ τετράμετρόν ἐστιν ἡμιεκτέον.	-0.3
+But what good will rhythms do me for a living?	ἐς κόρακας, ὡς ἄγροικος εἶ καὶ δυσμαθής.	0.0315789
+In the first place, to be clever at an entertainment, understanding what rhythm is for the war-dance, and what, again, according to the dactyle.	ταχύ γʼ ἂν δύναιο μανθάνειν περὶ ῥυθμῶν. ~~~ τί δέ μʼ ὠφελήσουσʼ οἱ ῥυθμοὶ πρὸς τἄλφιτα;	-0.0356557
+	πρῶτον μὲν εἶναι κομψὸν ἐν συνουσίᾳ, ἐπαΐονθʼ ὁποῖός ἐστι τῶν ῥυθμῶν κατʼ ἐνόπλιον, χὠποῖος αὖ κατὰ δάκτυλον.	-0.3
+According to the dactyle?	κατὰ δάκτυλον;	0.247826
+By Jove, but I know it!	νὴ τὸν Δίʼ, ἀλλʼ οἶδʼ.	-0.0157895
+Tell me, pray.	εἰπὲ δή.	0.230769
+What else but this finger?	τίς ἄλλος ἀντὶ τουτουὶ τοῦ δακτύλου;	-0.273913
+Formerly, indeed, when I was yet a boy, this here!	πρὸ τοῦ μέν, ἔτʼ ἐμοῦ παιδὸς ὄντος, οὑτοσί.	0.0428571
+You are boorish and stupid.	ἀγρεῖος εἶ καὶ σκαιός.	0.075
+For I do not desire, you wretch, to learn any of these things.	οὐ γὰρ ᾠζυρὲ τούτων ἐπιθυμῶ μανθάνειν οὐδέν.	0.111765
+What then?	τί δαί;	0.24
+That, that, the most unjust cause.	ἐκεῖνʼ ἐκεῖνο, τὸν ἀδικώτατον λόγον.	-0.09

@@ -1,0 +1,48 @@
+But you must learn other things before these; namely, what quadrupeds are properly masculine.	ἀλλʼ οἶδʼ ἔγωγε τἄρρενʼ, εἰ μὴ μαίνομαι·	0.271622
+I know the males, if I am not mad-krios, tragos, tauros, kuon, alektryon.	κριὸς τράγος ταῦρος κύων ἀλεκτρυών.	0.285484
+Do you see what you are doing?	ὁρᾷς ὃ πάσχεις;	0.252
+You are calling both the female and the male alektryon in the same way.	τήν τε θήλειαν καλεῖς ἀλεκτρυόνα κατὰ ταὐτὸ καὶ τὸν ἄρρενα.	0.0508475
+How, pray? ~~~ Come, tell me.	πῶς δὴ φέρʼ;	-0.0136364
+How?	ὅπως;	-0.06
+The one with you is alektryon, and the other is alektryon also.	ἀλεκτρυὼν κἀλεκτρυών.	0.230233
+Yea, by Neptune!	νὴ τὸν Ποσειδῶ.	0.02
+How now ought I to call them?	νῦν δὲ πῶς με χρὴ καλεῖν;	0.0375
+The one alektryaina and the other alektor.	ἀλεκτρύαιναν, τὸν δʼ ἕτερον ἀλέκτορα.	0.0405405
+Alektryaina?	ἀλεκτρύαιναν;	-0.0230769
+Capital, by the Air!	εὖ γε νὴ τὸν Ἀέρα·	0.05
+So that, in return for this lesson alone, I will fill your kardopos full of barley-meal on all sides. ~~~ See!	ὥστʼ ἀντὶ τούτου τοῦ διδάγματος μόνου διαλφιτώσω σου κύκλῳ τὴν κάρδοπον.	-0.0666667
+See! ~~~ There again is another blunder!	ἰδοὺ μάλʼ αὖθις τοῦθʼ ἕτερον·	-0.0970588
+	τὴν κάρδοπον ἄρρενα καλεῖς θήλειαν οὖσαν.	-0.3
+You make kardopos, which is feminine, to be masculine.	τῷ τρόπῳ ἄρρενα καλῶ ʼγὼ κάρδοπον;	0.197872
+In what way do I make kardopos masculine?	μάλιστά γε, ὥσπερ γε καὶ Κλεώνυμον.	0.0771429
+Most assuredly; just as if you were to say Cleonymos.	πῶς δή; ~~~ φράσον.	-0.0910714
+Good sir, Cleonymus had no kneading-trough, but kneaded his bread in a round mortar.	ταὐτὸν δύναταί σοι κάρδοπος Κλεωνύμῳ.	0.286957
+	ἀλλʼ ὦγάθʼ οὐδʼ ἦν κάρδοπος Κλεωνύμῳ, ἀλλʼ ἐν θυείᾳ στρογγύλῃ γʼ ἂν ἐμάττετο.	-0.3
+How ought I to call it henceforth?	ἀτὰρ τὸ λοιπὸν πῶς με χρὴ καλεῖν;	-0.0310345
+How?	ὅπως;	-0.06
+Call it kardope, as you call Sostrate.	τὴν καρδόπην, ὥσπερ καλεῖς τὴν Σωστράτην.	-0.0818182
+Kardope in the feminine?	τὴν καρδόπην θήλειαν;	0.0681818
+For so you speak it rightly.	ὀρθῶς γὰρ λέγεις.	0.1875
+But that would make it kardope, Kleonyme.	ἐκεῖνο δʼ ἦν ἄν, καρδόπη, Κλεωνύμη.	0.0833333
+You must learn one thing more about names, what are masculine and what of them are feminine.	ἔτι δή γε περὶ τῶν ὀνομάτων μαθεῖν σε δεῖ, ἅττʼ ἄρρενʼ ἐστίν, ἅττα δʼ αὐτῶν θήλεα.	0.038961
+I know what are female.	ἀλλʼ οἶδʼ ἔγωγʼ ἃ θήλεʼ ἐστίν.	-0.225
+Tell me, pray.	εἰπὲ δή.	0.230769
+Lysilla, Philinna, Clitagora, Demetria. ~~~ What names are masculine?	Λύσιλλα Φίλιννα Κλειταγόρα Δημητρία.	-0.0122951
+Thousands; Philoxenus, Melesias, Amynias.	ἄρρενα δὲ ποῖα τῶν ὀνομάτων;	0.192308
+But, you wretch!	μυρία.	0.225
+These are not masculine.	Φιλόξενος Μελησίας Ἀμυνίας.	-0.0954545
+	ἀλλʼ ὦ πόνηρε ταῦτά γʼ ἐστʼ οὐκ ἄρρενα.	-0.3
+Are they not males with you?	οὐκ ἄρρενʼ ὑμῖν ἐστιν;	0.0625
+By no means; for how would you call Amynias, if you met him?	οὐδαμῶς γʼ, ἐπεὶ πῶς ἂν καλέσειας ἐντυχὼν Ἀμυνίᾳ;	0.0306122
+How would I call?	ὅπως ἄν;	0.28
+Thus: Come hither, come hither Amynia!	ὡδί, δεῦρο δεῦρʼ Ἀμυνία.	0.202941
+Do you see ?	ὁρᾷς;	0.24
+You call Amynias a woman.	γυναῖκα τὴν Ἀμυνίαν καλεῖς.	-0.109091
+Is it not then with justice, who does not serve in the army?	οὔκουν δικαίως ἥτις οὐ στρατεύεται;	0.202041
+But why should I learn these things, that we all know?	ἀτὰρ τί ταῦθʼ ἃ πάντες ἴσμεν μανθάνω;	0.153333
+	οὐδὲν μὰ Δίʼ ἀλλὰ κατακλινεὶς δευρὶ — τί δρῶ;	-0.3
+It is no use, by Jupiter! ~~~ Having reclined yourself down here- What must I do?	ἐκφρόντισόν τι τῶν σεαυτοῦ πραγμάτων.	-0.00681818
+Think out some of your own affairs.	μὴ δῆθʼ ἱκετεύω σʼ ἐνγεταῦθʼ·	0.04
+Not here, pray, I beseech you; but, if I must, suffer me to excogitate these very things on the ground.	ἀλλʼ εἴ γε χρή, χαμαί μʼ ἔασον αὐτὰ ταῦτʼ ἐκφροντίσαι.	0.261176
+There is no other way. ~~~ Unfortunate man that I am!	οὐκ ἔστι παρὰ ταῦτʼ ἄλλα.	-0.0139535
+What a penalty shall I this day pay to the bugs!	κακοδαίμων ἐγώ, οἵαν δίκην τοῖς κόρεσι δώσω τήμερον.	-0.107692

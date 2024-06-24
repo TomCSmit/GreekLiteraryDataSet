@@ -1,0 +1,37 @@
+Go to the devil!	βάλλʼ ἐς κόρακας·	-0.0857143
+Who it is that knocked at the door?	τίς ἐσθʼ ὁ κόψας τὴν θύραν;	0.113793
+Strepsiades, the son of Phidon, of Cicynna.	Φείδωνος υἱὸς Στρεψιάδης Κικυννόθεν.	0.0631579
+	ἀμαθής γε νὴ Δίʼ ὅστις οὑτωσὶ σφόδρα ἀπεριμερίμνως τὴν θύραν λελάκτικας καὶ φροντίδʼ ἐξήμβλωκας ἐξηυρημένην.	-0.3
+You are a stupid fellow, by Jove!	σύγγνωθί μοι·	0.264
+who have kicked against the door so very carelessly, and have caused the miscarriage of an idea which I had conceived.	τηλοῦ γὰρ οἰκῶ τῶν ἀγρῶν.	-0.00612245
+Pardon me; for I dwell afar in the country.	ἀλλʼ εἰπέ μοι τὸ πρᾶγμα τοὐξημβλωμένον.	-0.00833333
+But tell me the thing which has been made to miscarry.	ἀλλʼ οὐ θέμις πλὴν τοῖς μαθηταῖσιν λέγειν.	0.0866667
+It is not lawful to mention it, except to disciples.	λέγε νυν ἐμοὶ θαρρῶν·	0.27
+Tell it, then, to me without fear; for I here am come as a disciple to the thinking-shop.	ἐγὼ γὰρ οὑτοσὶ ἥκω μαθητὴς ἐς τὸ φροντιστήριον. ~~~ λέξω.	-0.0328767
+I will tell you; but you must regard these as mysteries.	νομίσαι δὲ ταῦτα χρὴ μυστήρια.	0.248936
+	ἀνήρετʼ ἄρτι Χαιρεφῶντα Σωκράτης ψύλλαν ὁπόσους ἅλλοιτο τοὺς αὑτῆς πόδας·	-0.3
+Socrates lately asked Chaerephon about a flea, how many of its own feet it jumped; for after having bit the eyebrow of Chaerephon, it leaped away onto the head of Socrates.	δακοῦσα γὰρ τοῦ Χαιρεφῶντος τὴν ὀφρῦν ἐπὶ τὴν κεφαλὴν τὴν Σωκράτους ἀφήλατο.	0.3
+How then did he measure this?	πῶς δῆτα διεμέτρησε;	0.144
+Most cleverly.	δεξιώτατα.	0.171429
+He melted some wax; and then took the flea and dipped its feet in the wax; and then a pair of Persian slippers stuck to it when cooled.	κηρὸν διατήξας, εἶτα τὴν ψύλλαν λαβὼν ἐνέβαψεν ἐς τὸν κηρὸν αὐτῆς τὼ πόδε, κᾆτα ψυχείσῃ περιέφυσαν Περσικαί.	0.0633028
+Having gently loosened these, he measured back the distance.	ταύτας ὑπολύσας ἀνεμέτρει τὸ χωρίον.	0.220755
+O King Jupiter! ~~~ What subtlety of thought!	ὦ Ζεῦ βασιλεῦ τῆς λεπτότητος τῶν φρενῶν.	-0.142105
+What then would you say if you heard another contrivance of Socrates?	τί δῆτʼ ἂν ἕτερον εἰ πύθοιο Σωκράτους φρόντισμα;	0.162712
+Of what kind?	ποῖον;	0.275
+Tell me, I beseech you!	ἀντιβολῶ κάτειπέ μοι.	0
+	ἀνήρετʼ αὐτὸν Χαιρεφῶν ὁ Σφήττιος ὁπότερα τὴν γνώμην ἔχοι, τὰς ἐμπίδας κατὰ τὸ στόμʼ ᾄδειν ἢ κατὰ τοὐρροπύγιον.	-0.3
+Chaerephon the Sphettian asked him whether he thought gnats buzzed through the mouth or the breech.	τί δῆτʼ ἐκεῖνος εἶπε περὶ τῆς ἐμπίδος;	0.240845
+What, then, did he say about the gnat?	ἔφασκεν εἶναι τοὔντερον τῆς ἐμπίδος στενόν·	-0.16875
+He said the intestine of the gnat was narrow and that the wind went forcibly through it, being slender, straight to the breech; and then that the rump, being hollow where it is adjacent to the narrow part, resounded through the violence of the wind.	διὰ λεπτοῦ δʼ ὄντος αὐτοῦ τὴν πνοὴν βίᾳ βαδίζειν εὐθὺ τοὐρροπυγίου· ~~~ ἔπειτα κοῖλον πρὸς στενῷ προσκείμενον τὸν πρωκτὸν ἠχεῖν ὑπὸ βίας τοῦ πνεύματος.	-0.0495146
+The rump of the gnats then is a trumpet!	σάλπιγξ ὁ πρωκτός ἐστιν ἄρα τῶν ἐμπίδων.	-0.0636364
+Oh, thrice happy he for his sharp-sightedness!	ὦ τρισμακάριος τοῦ διεντερεύματος.	0.131707
+	ἦ ῥᾳδίως φεύγων ἂν ἀποφύγοι δίκην ὅστις δίοιδε τοὔντερον τῆς ἐμπίδος.	-0.3
+Surely a defendant might easily get acquitted who understands the intestine of the gnat.	πρώην δέ γε γνώμην μεγάλην ἀφῃρέθη ὑπʼ ἀσκαλαβώτου.	0.236842
+But he was lately deprived of a great idea by a lizard.	τίνα τρόπον;	-0.0136364
+In what way? ~~~ Tell me.	κάτειπέ μοι.	-0.015
+As he was investigating the courses of the moon and her revolutions, then as he was gaping upward a lizard in the darkness dropped upon him from the roof.	ζητοῦντος αὐτοῦ τῆς σελήνης τὰς ὁδοὺς καὶ τὰς περιφορὰς εἶτʼ ἄνω κεχηνότος ἀπὸ τῆς ὀροφῆς νύκτωρ γαλεώτης κατέχεσεν.	0.092126
+I am amused at a lizard's having dropped on Socrates.	ἥσθην γαλεώτῃ καταχέσαντι Σωκράτους.	0.146667
+Yesterday evening there was no supper for us.	ἐχθὲς δέ γʼ ἡμῖν δεῖπνον οὐκ ἦν ἑσπέρας.	0.0307692
+Well.	εἶεν·	0
+What then did he contrive for provisions?	τί οὖν πρὸς τἄλφιτʼ ἐπαλαμήσατο;	0.1
+He sprinkled fine ashes on the table, and bent a little spit, and then took it as a pair of compasses and filched a cloak from the Palaestra.	κατὰ τῆς τραπέζης καταπάσας λεπτὴν τέφραν κάμψας ὀβελίσκον εἶτα διαβήτην λαβὼν ἐκ τῆς παλαίστρας θοἰμάτιον ὑφείλετο.	0.0469565

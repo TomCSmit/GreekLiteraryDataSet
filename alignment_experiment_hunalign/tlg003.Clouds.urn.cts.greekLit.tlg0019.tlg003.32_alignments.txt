@@ -1,0 +1,35 @@
+Come hither!		-0.3
+Show yourself to the spectators, although being audacious.	ἴθʼ ὅποι χρῄζεις.	0.127273
+Go whither you please; for I shall far rather do for you, if I speak before a crowd.	πολὺ γὰρ μᾶλλόν ʼς ἐν τοῖς πολλοῖσι λέγων ἀπολῶ.	0.211765
+You destroy me?	ἀπολεῖς σύ;	0.128571
+Who are you?	τίς ὤν;	0.245455
+A cause.	λόγος.	0.15
+Ay, the worse.	ἥττων γʼ ὤν.	0.0923077
+But I conquer you, who say that you are better than I.	ἀλλά σε νικῶ τὸν ἐμοῦ κρείττω φάσκοντʼ εἶναι.	0.0409091
+By doing what clever trick?	τί σοφὸν ποιῶν;	0.25
+By discovering new contrivances.	γνώμας καινὰς ἐξευρίσκων.	0.12
+For these innovations flourish by the favour of these silly persons.	ταῦτα γὰρ ἀνθεῖ διὰ τουτουσὶ τοὺς ἀνοήτους.	0.183051
+No; but wise persons.	οὔκ, ἀλλὰ σοφούς.	0.0947368
+I will destroy you miserably.	ἀπολῶ σε κακῶς.	0.265385
+Tell me, by doing what?	εἰπὲ τί ποιῶν;	0.195
+By speaking what is just.	τὰ δίκαια λέγων.	0.204545
+But I will overturn them by contradicting them; for I deny that justice even exists at all.	ἀλλʼ ἀνατρέψω γʼ αὔτʼ ἀντιλέγων·	0.22623
+	οὐδὲ γὰρ εἶναι πάνυ φημὶ δίκην.	-0.3
+Do you deny that it exists?	οὐκ εἶναι φῄς;	0.247826
+For come, where is it?	φέρε γὰρ ποῦ ʼστιν;	0.0631579
+With the gods.	παρὰ τοῖσι θεοῖς.	-0.161538
+	πῶς δῆτα δίκης οὔσης ὁ Ζεὺς οὐκ ἀπόλωλεν τὸν πατέρʼ αὑτοῦ δήσας;	-0.3
+How, then, if justice exists, has Jupiter not perished, who bound his own father? ~~~ Bah!	αἰβοῖ τουτὶ καὶ δὴ χωρεῖ τὸ κακόν·	-0.0117188
+This profanity now is spreading!	δότε μοι λεκάνην.	0.289655
+Give me a basin. ~~~ You are a dotard and absurd.	τυφογέρων εἶ κἀνάρμοστος.	-0.0346154
+You are debauched and shameless.	καταπύγων εἶ κἀναίσχυντος.	0.0827586
+You have spoken roses of me.	ῥόδα μʼ εἴρηκας.	0.225
+And a dirty lickspittle.	καὶ βωμολόχος.	0.231818
+You crown me with lilies.	κρίνεσι στεφανοῖς.	0.122727
+And a parricide.	καὶ πατραλοίας.	0.02
+You don't know that you are sprinkling me with gold.	χρυσῷ πάττων μʼ οὐ γιγνώσκεις.	0.231818
+Certainly not so formerly, but with lead.	οὐ δῆτα πρὸ τοῦ γʼ, ἀλλὰ μολύβδῳ.	0.1
+But now this is an ornament to me.	νῦν δέ γε κόσμος τοῦτʼ ἐστὶν ἐμοί.	-0.0535714
+You are very impudent.	θρασὺς εἶ πολλοῦ.	0.105
+And you are antiquated.	σὺ δέ γʼ ἀρχαῖος.	0.157143
+And through you, no one of our youths is willing to go to school; and you will be found out some time or other by the Athenians, what sort of doctrines you teach the simple-minded.	διὰ σὲ δὲ φοιτᾶν οὐδεὶς ἐθέλει τῶν μειρακίων· ~~~ καὶ γνωσθήσει ποτʼ Ἀθηναίοις οἶα διδάσκεις τοὺς ἀνοήτους.	-0.044898

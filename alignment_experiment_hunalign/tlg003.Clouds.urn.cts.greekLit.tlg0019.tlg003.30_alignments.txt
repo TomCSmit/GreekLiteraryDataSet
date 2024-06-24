@@ -1,0 +1,43 @@
+By Mist, you certainly shall not stay here any longer!	οὔτοι μὰ τὴν Ὁμίχλην ἔτʼ ἐνταυθοῖ μενεῖς·	0.0847826
+But go and gnaw the columns of Megacles.	ἀλλʼ ἔσθιʼ ἐλθὼν τοὺς Μεγακλέους κίονας.	-0.0617647
+My good sir, what is the matter with you, O father?	ὦ δαιμόνιε, τί χρῆμα πάσχεις ὦ πάτερ;	0.142857
+You are not in your senses, by Olympian Jupiter!	οὐκ εὖ φρονεῖς μὰ τὸν Δία τὸν Ὀλύμπιον.	0.0804878
+See, see, Olympian Jupiter! ~~~ What folly!	ἰδού γʼ ἰδού, Δίʼ Ὀλύμπιον·	-0.0486486
+To think of your believing in Jupiter, as old as you are!	τῆς μωρίας, τὸν Δία νομίζειν ὄντα τηλικουτονί.	0.0765957
+Why, pray, did you laugh at this?	τί δὲ τοῦτʼ ἐγέλασας ἐτεόν;	0.0642857
+Reflecting that you are a child, and have antiquated notions.	ἐνθυμούμενος ὅτι παιδάριον εἶ καὶ φρονεῖς ἀρχαιϊκά.	0.0566038
+Yet, however, approach, that you may know more; and I will tell you a thing, by learning which you will be a man.	ὅμως γε μὴν πρόσελθʼ, ἵνʼ εἰδῇς πλείονα, καί σοι φράσω τι πρᾶγμʼ ὃ μαθὼν ἀνὴρ ἔσει.	0.127174
+But see that you do not teach this to any one.	ὅπως δὲ τοῦτο μὴ διδάξεις μηδένα. ~~~ ἰδού·	-0.0932432
+Well, what is it?	τί ἔστιν;	0.26
+You swore now by Jupiter.	ὤμοσας νυνὶ Δία.	0.190909
+I did.	ἔγωγʼ.	-0.05
+Seest thou, then, how good a thing is learning?	ὁρᾷς οὖν ὡς ἀγαθὸν τὸ μανθάνειν;	0.1425
+There is no Jupiter, O Phidippides!	οὐκ ἔστιν ὦ Φειδιππίδη Ζεύς.	0.106452
+Who then?	ἀλλὰ τίς;	0
+Vortex reigns, having expelled Jupiter.	Δῖνος βασιλεύει τὸν Δίʼ ἐξεληλακώς.	0.0583333
+Bah! ~~~ Why do you talk foolishly?	αἰβοῖ τί ληρεῖς;	-0.0103448
+Be assured that it is so.	ἴσθι τοῦθʼ οὕτως ἔχον.	0
+Who says this?	τίς φησι ταῦτα;	-0.0230769
+Socrates the Melian, and Chaerephon, who knows the footmarks of fleas.	Σωκράτης ὁ Μήλιος καὶ Χαιρεφῶν, ὃς οἶδε τὰ ψυλλῶν ἴχνη.	0.113115
+Have you arrived at such a pitch of frenzy that you believe madmen?	σὺ δʼ ἐς τοσοῦτον τῶν μανιῶν ἐλήλυθας ὥστʼ ἀνδράσιν πείθει χολῶσιν;	-0.0589286
+	εὐστόμει καὶ μηδὲν εἴπῃς φλαῦρον ἄνδρας δεξιοὺς καὶ νοῦν ἔχοντας·	-0.3
+Speak words of good omen, and say nothing bad of clever men and wise; of whom, through frugality, none ever shaved or anointed himself, or went to a bath to wash himself; while you squander my property in bathing, as if I were already dead.	ὧν ὑπὸ τῆς φειδωλίας ἀπεκείρατʼ οὐδεὶς πώποτʼ οὐδʼ ἠλείψατο, οὐδʼ ἐς βαλανεῖον ἦλθε λουσόμενος·	0.266102
+But go as quickly as possible and learn instead of me.	σὺ δὲ ὥσπερ τεθνεῶτος καταλόει μου τὸν βίον.	0.0733333
+What good could any one learn from them?	ἀλλʼ ὡς τάχιστʼ ἐλθὼν ὑπὲρ ἐμοῦ μάνθανε.	-0.0705882
+	τί δʼ ἂν παρʼ ἐκείνων καὶ μάθοι χρηστόν τις ἄν;	-0.3
+What, really?	ἄληθες;	0.253846
+Whatever wisdom there is among men.	ὅσαπερ ἔστʼ ἐν ἀνθρώποις σοφά·	0.0483871
+And you will know yourself, how ignorant and stupid you are.	γνώσει δὲ σαυτὸν ὡς ἀμαθὴς εἶ καὶ παχύς.	0.170588
+But wait for me here a short time. ~~~ Ah me!	ἀλλʼ ἐπανάμεινόν μʼ ὀλίγον ἐνταυθοῖ χρόνον.	-0.197143
+What shall I do, my father being crazed?	οἴμοι τί δράσω παραφρονοῦντος τοῦ πατρός;	-0.0617647
+Shall I bring him into court and convict him of lunacy, or shall I give information of his madness to the coffin-makers?	πότερον παρανοίας αὐτὸν εἰσαγαγὼν ἕλω, ἢ τοῖς σοροπηγοῖς τὴν μανίαν αὐτοῦ φράσω;	0.156
+Come, let me see; what do you consider this to be?	φέρʼ ἴδω, σὺ τοῦτον τί ὀνομάζεις;	0.168293
+Tell me.	εἰπέ μοι.	-0.0375
+Alectryon. ~~~ Right.	ἀλεκτρυόνα.	-0.0315789
+And what this?	καλῶς γε.	0.207692
+Alectryon.	ταυτηνὶ δὲ τί;	-0.109091
+Both the same?	ἀλεκτρυόνʼ.	0.0692308
+You are very ridiculous.	ἄμφω ταὐτό;	0.3
+Do not do so, then, for the future; but call this alektryaina, and this one alektor.	καταγέλαστος εἶ. ~~~ μή νυν τὸ λοιπόν, ἀλλὰ τήνδε μὲν καλεῖν ἀλεκτρύαιναν τουτονὶ δʼ ἀλέκτορα.	-0.130714
+Alektryaina!	ἀλεκτρύαιναν;	-0.0230769
+Did you learn these clever things by going in just now to the Titans?	ταῦτʼ ἔμαθες τὰ δεξιὰ εἴσω παρελθὼν ἄρτι παρὰ τοὺς γηγενεῖς;	0.0105263

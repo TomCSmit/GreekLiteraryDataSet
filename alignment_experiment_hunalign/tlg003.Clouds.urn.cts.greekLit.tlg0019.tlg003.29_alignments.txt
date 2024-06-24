@@ -1,0 +1,4 @@
+Do you perceive that you are soon to obtain the greatest benefits through us alone of the gods?	ἆρʼ αἰσθάνει πλεῖστα διʼ ἡμᾶς ἀγάθʼ αὐτίχʼ ἕξων μόνας θεῶν;	0.186076
+For this man is ready to do everything that you bid him.	ὡς ἕτοιμος ὅδʼ ἐστὶν ἅπαντα δρᾶν ὅσʼ ἂν κελεύῃς.	0.0130435
+But you, while the man is astounded and evidently elated, having perceived it, will quickly fleece him to the best of your power.	σὺ δʼ ἀνδρὸς ἐκπεπληγμένου καὶ φανερῶς ἐπηρμένου γνοὺς ἀπολάψεις ὅ τι πλεῖστον δύνασαι, ταχέως·	0.113889
+For matters of this sort are somehow accustomed to turn the other way.	φιλεῖ γάρ πως τὰ τοιαῦθʼ ἑτέρᾳ τρέπεσθαι.	0.218644

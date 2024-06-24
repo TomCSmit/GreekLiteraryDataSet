@@ -1,0 +1,22 @@
+You are acting unfairly, Philo!	Φίλων ἀδικεῖς·	0.289286
+Drive on your own course.	ἔλαυνε τὸν σαυτοῦ δρόμον.	-0.0409091
+This is the bane that has destroyed me; for even in his sleep he dreams about horsemanship.	τοῦτʼ ἔστι τουτὶ τὸ κακὸν ὅ μʼ ἀπολώλεκεν·	0.292105
+How many courses will the war-chariots run?	ὀνειροπολεῖ γὰρ καὶ καθεύδων ἱππικήν.	0.0394737
+Many courses do you drive me, your father.	πόσους δρόμους ἐλᾷ τὰ πολεμιστήρια;	0.0583333
+	ἐμὲ μὲν σὺ πολλοὺς τὸν πατέρʼ ἐλαύνεις δρόμους.	-0.3
+But what debt came upon me after Pasias?	ἀτὰρ τί χρέος ἔβα με μετὰ τὸν Πασίαν;	0.0264706
+Three minae to Amynias for a little chariot and pair of wheels.	τρεῖς μναῖ διφρίσκου καὶ τροχοῖν Ἀμυνίᾳ.	0.169811
+Lead the horse home, after having given him a good rolling.	ἄπαγε τὸν ἵππον ἐξαλίσας οἴκαδε.	0.234
+O foolish youth, you have rolled me out of my possessions; since I have been cast in suits, and others say that they will have surety given them for the interest.	ἀλλʼ ὦ μέλʼ ἐξήλικας ἐμέ γʼ ἐκ τῶν ἐμῶν, ὅτε καὶ δίκας ὤφληκα χἄτεροι τόκου ἐνεχυράσεσθαί φασιν.	0.21203
+	ἐτεὸν ὦ πάτερ τί δυσκολαίνεις καὶ στρέφει τὴν νύχθʼ ὅλην;	-0.3
+Pray, father, why are you peevish, and toss about the whole night?	δάκνει μὲ δήμαρχός τις ἐκ τῶν στρωμάτων.	0.219643
+A bailiff out of the bedclothes is biting me.	ἔασον ὦ δαιμόνιε καταδαρθεῖν τί με.	0.102632
+Suffer me, good sir, to sleep a little.	σὺ δʼ οὖν κάθευδε·	0.3
+Then, do you sleep on; but know that all these debts will turn on your head.	τὰ δὲ χρέα ταῦτʼ ἴσθʼ ὅτι ἐς τὴν κεφαλὴν ἅπαντα τὴν σὴν τρέψεται.	0.033871
+Alas!	φεῦ.	0.15
+Would that the match-maker had perished miserably, who induced me to marry your mother.	εἴθʼ ὤφελʼ ἡ προμνήστριʼ ἀπολέσθαι κακῶς, ἥτις με γῆμʼ ἐπῆρε τὴν σὴν μητέρα·	0.044
+For a country life used to be most agreeable to me, dirty, untrimmed, reclining at random, abounding in bees, and sheep, and oil-cake.	ἐμοὶ γὰρ ἦν ἄγροικος ἥδιστος βίος εὐρωτιῶν, ἀκόρητος, εἰκῇ κείμενος, βρύων μελίτταις καὶ προβάτοις καὶ στεμφύλοις.	0.0477876
+Then I, a rustic, married a niece of Megacles, the son of Megacles, from the city, haughty, luxurious, and Coesyrafied.	ἔπειτʼ ἔγημα Μεγακλέους τοῦ Μεγακλέους ἀδελφιδῆν ἄγροικος ὢν ἐξ ἄστεως, σεμνὴν τρυφῶσαν ἐγκεκοισυρωμένην.	0.0148515
+When I married her, I lay with her redolent of new wine, of the cheese-crate, and abundance of wool; but she, on the contrary, of ointment, saffron, wanton-kisses, extravagance, gluttony, and of Colias and Genetyllis.	ταύτην ὅτʼ ἐγάμουν, συγκατεκλινόμην ἐγὼ ὄζων τρυγὸς τρασιᾶς ἐρίων περιουσίας, ἡ δʼ αὖ μύρου κρόκου καταγλωττισμάτων, δαπάνης λαφυγμοῦ Κωλιάδος Γενετυλλίδος.	0.140217
+I will not indeed say that she was idle; but she wove.	οὐ μὴν ἐρῶ γʼ ὡς ἀργὸς ἦν, ἀλλʼ ἐσπάθα.	0.115909
+And I used to show her this cloak by way of a pretext and say Wife, you weave at a great rate.	ἐγὼ δʼ ἂν αὐτῇ θοἰμάτιον δεικνὺς τοδὶ πρόφασιν ἔφασκον, ὦ γύναι λίαν σπαθᾷς.	0.0405405

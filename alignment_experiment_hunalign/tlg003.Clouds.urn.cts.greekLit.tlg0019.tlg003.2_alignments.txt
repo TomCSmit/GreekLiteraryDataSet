@@ -1,0 +1,28 @@
+We have no oil in the lamp.	οἴμοι·	0.128571
+Ah me! ~~~ Why did you light the thirsty lamp?	τί γάρ μοι τὸν πότην ἧπτες λύχνον;	-0.0851351
+Come hither that you may weep!	δεῦρʼ ἔλθʼ ἵνα κλάῃς.	0.138462
+For what, pray, shall I weep?	διὰ τί δῆτα κλαύσομαι;	0.12
+Because you put in one of the thick wicks.	ὅτι τῶν παχειῶν ἐνετίθεις θρυαλλίδων.	0
+After this, when this son was born to us, to me, forsooth, and to my excellent wife, we squabbled then about the name: for she was for adding hippos to the name, Xanthippus, or Charippus, or Callipides; but I was for giving him the name of his grandfather, Phidonides.	μετὰ ταῦθʼ, ὅπως νῷν ἐγένεθʼ υἱὸς οὑτοσί, ἐμοί τε δὴ καὶ τῇ γυναικὶ τἀγαθῇ, περὶ τοὐνόματος δὴ ʼντεῦθεν ἐλοιδορούμεθα·	0.295872
+	ἡ μὲν γὰρ ἵππον προσετίθει πρὸς τοὔνομα, Ξάνθιππον ἤ Χαριππον ἢ Καλλιππίδην, ἐγὼ δὲ τοῦ πάππου ʼτιθέμην Φειδωνίδην.	-0.3
+For a time therefore we disputed; and then at length we agreed, and called him Phidippides.	τέως μὲν οὖν ἐκρινόμεθʼ·	0.0978261
+She used to take this son and fondle him, saying, When you, being grown up, shall drive your chariot to the city, like Megacles, with a xystis.	εἶτα τῷ χρόνῳ κοινῇ ξυνέβημεν κἀθέμεθα Φειδιππίδην.	0.227368
+	τοῦτον τὸν υἱὸν λαμβάνουσʼ ἐκορίζετο, ὅταν σὺ μέγας ὢν ἅρμʼ ἐλαύνῃς πρὸς πόλιν, ὥσπερ Μεγακλέης, ξυστίδʼ ἔχων.	-0.3
+But I used to say, Nay, rather, when dressed in a leathern jerkin, you shall drive goats from Phelleus, like your father.	ἐγὼ δʼ ἔφην, ὅταν μὲν οὖν τὰς αἶγας ἐκ τοῦ φελλέως, ὥσπερ ὁ πατήρ σου, διφθέραν ἐνημμένος.	0.130693
+He paid no attention to my words, but poured a horse-fever over my property.	ἀλλʼ οὐκ ἐπίθετο τοῖς ἐμοῖς οὐδὲν λόγοις, ἀλλʼ ἵππερόν μου κατέχεεν τῶν χρημάτων.	-0.09375
+Now, therefore, by meditating the whole night, I have discovered one path for my course extraordinarily excellent; to which if I persuade this youth I shall be saved.	νῦν οὖν ὅλην τὴν νύκτα φροντίζων ὁδοῦ μίαν ηὗρον ἀτραπὸν δαιμονίως ὑπερφυᾶ, ἣν ἢν ἀναπείσω τουτονί, σωθήσομαι.	0.171429
+But first I wish to awake him.	ἀλλʼ ἐξεγεῖραι πρῶτον αὐτὸν βούλομαι.	-0.264
+How then can I awake him in the most agreeable manner?	πῶς δῆτʼ ἂν ἥδιστʼ αὐτὸν ἐπεγείραιμι;	0.126667
+How?	πῶς;	0.06
+Phidippides, my little Phidippides?	Φειδιππίδη Φειδιππίδιον.	0.181818
+What, father?	τί ὦ πάτερ;	0.161538
+Kiss me, and give me your right hand!	κύσον με καὶ τὴν χεῖρα δὸς τὴν δεξιάν.	-0.0483871
+There.	ἰδού.	0.128571
+What's the matter?	τί ἔστιν;	0.3
+Tell me, do you love me?	εἰπέ μοι, φιλεῖς ἐμέ;	0.03
+Yes, by this Equestrian Neptune.	νὴ τὸν Ποσειδῶ τουτονὶ τὸν ἵππιον.	-0.062069
+Nay, do not by any means mention this Equestrian to me, for this god is the author of my misfortunes.	μὴ ʼμοί γε τοῦτον μηδαμῶς τὸν ἵππιον·	0.233824
+But, if you really love me from your heart, my son, obey me.	οὗτος γὰρ ὁ θεὸς αἴτιός μοι τῶν κακῶν.	0.177551
+	ἀλλʼ εἴπερ ἐκ τῆς καρδίας μʼ ὄντως φιλεῖς, ὦ παῖ πιθοῦ.	-0.3
+In what then, pray, shall I obey you?	τί οὖν πίθωμαι δῆτά σοι;	0.193548
+Reform your habits as quickly as possible, and go and learn what I advise.	ἔκστρεψον ὡς τάχιστα τοὺς σαυτοῦ τρόπους, καὶ μάνθανʼ ἐλθὼν ἃν ἐγὼ παραινέσω.	-0.0822581

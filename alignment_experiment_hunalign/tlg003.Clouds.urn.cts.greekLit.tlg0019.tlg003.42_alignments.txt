@@ -1,0 +1,23 @@
+And yet I was choking in my heart, and was longing to confound all these with contrary maxims.	καὶ μὴν πάλαι γʼ ἐπνιγόμην τὰ σπλάγχνα κἀπεθύμουν ἅπαντα ταῦτʼ ἐναντίαις γνώμαισι συνταράξαι.	-0.0538462
+For I have been called among the deep thinkers the worse cause on this very account, that I first contrived how to speak against both law and justice; and this art is worth more than ten thousand staters, that one should choose the worse cause, and nevertheless be victorious.	ἐγὼ γὰρ ἥττων μὲν λόγος διʼ αὐτὸ τοῦτʼ ἐκλήθην ἐν τοῖσι φροντισταῖσιν, ὅτι πρώτιστος ἐπενόησα τοῖσιν νόμοις καὶ ταῖς δίκαις τἀναντίʼ ἀντιλέξαι.	0.256769
+	καὶ τοῦτο πλεῖν ἢ μυρίων ἔστʼ ἄξιον στατήρων, αἱρούμενον τοὺς ἥττονας λόγους ἔπειτα νικᾶν.	-0.3
+But mark how I will confute the system of education on which he relies, who says, in the first place, that he will not permit you to be washed with warm water.	σκέψαι δὲ τὴν παίδευσιν ᾗ πέποιθεν ὡς ἐλέγξω, ὅστις σε θερμῷ φησι λοῦσθαι πρῶτον οὐκ ἐάσειν.	0.218605
+And yet, on what principle do you blame the warm baths?	καίτοι τίνα γνώμην ἔχων ψέγεις τὰ θερμὰ λουτρά;	0.0586957
+Because it is most vile, and makes a man cowardly.	ὁτιὴ κάκιστόν ἐστι καὶ δειλὸν ποιεῖ τὸν ἄνδρα.	-0.0142857
+Stop!	ἐπίσχες·	-0.3
+For immediately I seize and hold you by the waist without escape.	εὐθὺς γάρ σʼ ἔχω μέσον λαβὼν ἄφυκτον.	0.234545
+Come, tell me, which of the sons of Jupiter do you deem to have been the bravest in soul, and to have undergone most labours?	καί μοι φράσον, τῶν τοῦ Διὸς παίδων τίνʼ ἄνδρʼ ἄριστον ψυχὴν νομίζεις, εἰπέ, καὶ πλείστους πόνους πονῆσαι.	0.0529412
+I consider no man superior to Hercules.	ἐγὼ μὲν οὐδένʼ Ἡρακλέους βελτίονʼ ἄνδρα κρίνω.	-0.158824
+Where, pray, did you ever see cold Herculean baths?	ποῦ ψυχρὰ δῆτα πώποτʼ εἶδες Ἡράκλεια λουτρά;	0.0477273
+And yet, who was more valiant than he?	καίτοι τίς ἀνδρειότερος ἦν;	0.13125
+These are the very things which make the bath full of youths always chattering all day long, but the palaestras empty.	ταῦτʼ ἐστὶ ταῦτʼ ἐκεῖνα, ἃ τῶν νεανίσκων ἀεὶ διʼ ἡμέρας λαλούντων πλῆρες τὸ βαλανεῖον ποιεῖ, κενὰς δὲ τὰς παλαίστρας.	-0.0484848
+You next find fault with their living in the market-place; but I commend it.	εἶτʼ ἐν ἀγορᾷ τὴν διατριβὴν ψέγεις·	0.285938
+For if it had been bad, Homer would never have been for representing Nestor as an orator; nor all the other wise men.	ἐγὼ δʼ ἐπαινῶ. ~~~ εἰ γὰρ πονηρὸν ἦν, Ὅμηρος οὐδέποτʼ ἂν ἐποίει τὸν Νέστορʼ ἀγορητὴν ἂν οὐδὲ τοὺς σοφοὺς ἅπαντας.	-0.121875
+I will return, then, from thence to the tongue, which this fellow says our youths ought not to exercise, while I maintain they should.	ἄνειμι δῆτʼ ἐντεῦθεν ἐς τὴν γλῶτταν, ἣν ὁδὶ μὲν οὔ φησι χρῆναι τοὺς νέους ἀσκεῖν, ἐγὼ δέ φημι.	0.144643
+And again, he says they ought to be modest: two very great evils.	καὶ σωφρονεῖν αὖ φησι χρῆναι·	0.294444
+For tell me to whom you have ever seen any good accrue through modesty and confute me by your words.	δύο κακὼ μεγίστω. ~~~ ἐπεὶ σὺ διὰ τὸ σωφρονεῖν τῷ πώποτʼ εἶδες ἤδη ἀγαθάν τι γενόμενον, φράσον, καί μʼ ἐξέλεγξον εἰπών.	-0.164634
+To many.	πολλοῖς.	-0.0375
+Peleus, at any rate, received his sword on account of it.	ὁ γοῦν Πηλεὺς ἔλαβε διὰ τοῦτο τὴν μάχαιραν.	0.10625
+A sword?	μάχαιραν;	-0.075
+Marry, he got a pretty piece of luck, the poor wretch!	ἀστεῖόν γε κέρδος ἔλαβεν ὁ κακοδαίμων.	0.133333
+While Hyperbolus, he of the lamps, got more than many talents by his villainy, but by Jupiter, no sword!	Ὑπέρβολος δʼ οὑκ τῶν λύχνων πλεῖν ἢ τάλαντα πολλὰ εἴληφε διὰ πονηρίαν, ἀλλʼ οὐ μὰ Δίʼ οὐ μάχαιραν.	0.00344828

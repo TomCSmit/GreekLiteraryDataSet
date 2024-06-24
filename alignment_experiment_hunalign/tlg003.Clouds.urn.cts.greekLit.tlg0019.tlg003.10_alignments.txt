@@ -1,0 +1,41 @@
+Tell me, O Socrates, I beseech you, by Jupiter, who are these that have uttered this grand song?	πρὸς τοῦ Διὸς ἀντιβολῶ σε φράσον, τίνες εἴσʼ ὦ Σώκρατες αὗται αἱ φθεγξάμεναι τοῦτο τὸ σεμνόν;	-0.0225
+Are they some heroines?	μῶν ἡρῷναί τινές εἰσιν;	-0.0285714
+By no means; but heavenly Clouds, great divinities to idle men; who supply us with thought and argument, and intelligence and humbug, and circumlocution, and ability to hoax, and comprehension.	ἥκιστʼ ἀλλʼ οὐράνιαι Νεφέλαι μεγάλαι θεαὶ ἀνδράσιν ἀργοῖς·	0.15
+On this account therefore my soul, having heard their voice, flutters, and already seeks to discourse subtilely, and to quibble about smoke, and having pricked a maxim with a little notion, to refute the opposite argument.	αἵπερ γνώμην καὶ διάλεξιν καὶ νοῦν ἡμῖν παρέχουσιν καὶ τερατείαν καὶ περίλεξιν καὶ κροῦσιν καὶ κατάληψιν.	0.295213
+	ταῦτʼ ἄρʼ ἀκούσασʼ αὐτῶν τὸ φθέγμʼ ἡ ψυχή μου πεπότηται, καὶ λεπτολογεῖν ἤδη ζητεῖ καὶ περὶ καπνοῦ στενολεσχεῖν, καὶ γνωμιδίῳ γνώμην νύξασʼ ἑτέρῳ λόγῳ ἀντιλογῆσαι·	-0.3
+	ὥστʼ εἴ πως ἔστιν ἰδεῖν αὐτὰς ἤδη φανερῶς ἐπιθυμῶ.	-0.3
+So that now I eagerly desire, if by any means it be possible, to see them palpably.	βλέπε νυν δευρὶ πρὸς τὴν Πάρνηθʼ·	0.26
+Look, then, hither, toward Mount Parnes; for now I behold them descending gently.	ἤδη γὰρ ὁρῶ κατιούσας ἡσυχῇ αὐτάς.	0.276923
+Pray where?	φέρε ποῦ;	0.136364
+Show me. ~~~ See!	δεῖξον.	-0.0107143
+There they come in great numbers through the hollows and thickets; there, obliquely.	χωροῦσʼ αὗται πάνυ πολλαὶ διὰ τῶν κοίλων καὶ τῶν δασέων, αὗται πλάγιαι.	0.0780822
+What's the matter?	τί τὸ χρῆμα;	0.211765
+For I can't see them.	ὡς οὐ καθορῶ.	0.183333
+By the entrance.	παρὰ τὴν εἴσοδον.	-0.06
+Now at length with difficulty I just see them.	ἤδη νυνὶ μόλις οὕτως.	0.3
+Now at length you assuredly see them, unless you have your eyes running pumpkins. ~~~ Yes, by Jupiter!	νῦν γέ τοι ἤδη καθορᾷς αὐτάς, εἰ μὴ λημᾷς κολοκύνταις.	-0.0194118
+O highly honoured Clouds, for now they cover all things.	νὴ Δίʼ ἔγωγʼ, ὦ πολυτίμητοι·	0.28125
+Did you not, however, know, nor yet consider, these to be goddesses?	πάντα γὰρ ἤδη κατέχουσιν.	0.221739
+No, by Jupiter! ~~~ But I thought them to be mist, and dew, and smoke. ~~~ For you do not know, by Jupiter!	ταύτας μέντοι σὺ θεὰς οὔσας οὐκ ᾔδησθʼ οὐδʼ ἐνόμιζες;	-0.14058
+that these feed very many sophists, Thurian soothsayers, practisers of medicine, lazy-long-haired-onyx-ring-wearers, song-twisters for the cyclic dances, and meteorological quacks.	μὰ Δίʼ ἀλλʼ ὁμίχλην καὶ δρόσον αὐτὰς ἡγούμην καὶ καπνὸν εἶναι.	0.173684
+	οὐ γὰρ μὰ Δίʼ οἶσθʼ ὁτιὴ πλείστους αὗται βόσκουσι σοφιστάς, Θουριομάντεις ἰατροτέχνας σφραγιδονυχαργοκομήτας, κυκλίων τε χορῶν ᾀσματοκάμπτας ἄνδρας μετεωροφένακας, οὐδὲν δρῶντας βόσκουσʼ ἀργούς, ὅτι ταύτας μουσοποιοῦσιν.	-0.3
+They feed idle people who do nothing, because such men celebrate them in verse. ~~~ For this reason, then, they introduced into their verses the dreadful impetuosity of the moist, whirling-bright clouds ; and the curls of hundred-headed Typho ; and the hard-blowing tempests ; and then aerial, moist ; crooked-clawed birds, floating in air and the showers of rain from dewy Clouds.	ταῦτʼ ἄρʼ ἐποίουν ὑγρᾶν Νεφελᾶν στρεπταιγλᾶν δάιον ὁρμάν, πλοκάμους θʼ ἑκατογκεφάλα Τυφῶ πρημαινούσας τε θυέλλας, εἶτʼ ἀερίας διεράς, γαμψοὺς οἰωνοὺς ἀερονηχεῖς, ὄμβρους θʼ ὑδάτων δροσερᾶν Νεφελᾶν·	-0.0202194
+And then, in return for these, they swallow slices of great, fine mullets, and bird's-flesh of thrushes.	εἶτʼ ἀντʼ αὐτῶν κατέπινον κεστρᾶν τεμάχη μεγαλᾶν ἀγαθᾶν κρέα τʼ ὀρνίθεια κιχηλᾶν.	0.094382
+Is it not just, however, that they should have their reward, on account of these?	διὰ μέντοι τάσδʼ οὐχὶ δικαίως;	0.229091
+	λέξον δή μοι, τί παθοῦσαι, εἴπερ νεφέλαι γʼ εἰσὶν ἀληθῶς, θνηταῖς εἴξασι γυναιξίν;	-0.3
+Tell me, pray, if they are really clouds, what ails them, that they resemble mortal women?	οὐ γὰρ ἐκεῖναί γʼ εἰσὶ τοιαῦται.	0.22623
+For they are not such.	φέρε ποῖαι γάρ τινές εἰσιν;	-0.157895
+Pray, of what nature are they?	οὐκ οἶδα σαφῶς·	0.253846
+I do not clearly know: at any rate they resemble spread-out fleeces, and not women, by Jupiter!	εἴξασιν γοῦν ἐρίοισιν πεπταμένοισιν, κοὐχὶ γυναιξὶν μὰ Δίʼ οὐδʼ ὁτιοῦν·	0.0975
+Not a bit; for these have noses.	αὗται δὲ ῥῖνας ἔχουσιν.	0.1
+Answer, then, whatever I ask you.	ἀπόκριναί νυν ἅττʼ ἂν ἔρωμαι.	0.0413793
+Then say quickly what you wish.	λέγε νυν ταχέως ὅ τι βούλει.	0.0777778
+Have you ever, when you; looked up, seen a cloud like to a centaur, or a panther, or a wolf, or a bull?	ἤδη ποτʼ ἀναβλέψας εἶδες νεφέλην κενταύρῳ ὁμοίαν, ἢ παρδάλει ἢ λύκῳ ἢ ταύρῳ;	0.0987805
+By Jupiter, have I!	νὴ Δίʼ ἔγωγʼ.	0.176471
+But what of that?	εἶτα τί τοῦτο;	0.08
+They become all things, whatever they please.	γίγνονται πάνθʼ ὅ τι βούλονται·	0.18
+And then if they see a person with long hair, a wild one of these hairy fellows, like the son of Xenophantes, in derision of his folly, they liken themselves to centaurs.	κᾆτʼ ἢν μὲν ἴδωσι κομήτην ἄγριόν τινα τῶν λασίων τούτων, οἷόνπερ τὸν Ξενοφάντου, σκώπτουσαι τὴν μανίαν αὐτοῦ κενταύροις ᾔκασαν αὑτάς.	0.0878571
+Why, what, if they should see Simon, a plunderer of the public property, what do they do?	τί γὰρ ἢν ἅρπαγα τῶν δημοσίων κατίδωσι Σίμωνα, τί δρῶσιν;	0.194595
+They suddenly become wolves, showing up his disposition.	ἀποφαίνουσαι τὴν φύσιν αὐτοῦ λύκοι ἐξαίφνης ἐγένοντο.	0
+For this reason, then, for this reason, when they yesterday saw Cleonymus the recreant, on this account they became stags, because they saw this most cowardly fellow.	ταῦτʼ ἄρα ταῦτα Κλεώνυμον αὗται τὸν ῥίψασπιν χθὲς ἰδοῦσαι, ὅτι δειλότατον τοῦτον ἑώρων, ἔλαφοι διὰ τοῦτʼ ἐγένοντο.	0.153191
+And now too, because they saw Clisthenes, you observe, on this account they became women.	καὶ νῦν γʼ ὅτι Κλεισθένη εἶδον, ὁρᾷς, διὰ τοῦτʼ ἐγένοντο γυναῖκες.	0.126316

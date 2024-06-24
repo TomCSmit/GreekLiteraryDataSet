@@ -1,0 +1,41 @@
+Then, ought a man to throw away any part of his own property? ~~~ Never!	εἶτʼ ἄνδρα τῶν αὑτοῦ τι χρὴ προϊέναι;	-0.0258621
+But it were better then at once to put away blushes, rather than now to have trouble; since I am now dragging you to be a witness, for the sake of my own money; and further, in addition to this, I shall become an enemy to my fellow-tribesman.	οὐδέποτέ γʼ, ἀλλὰ κρεῖττον εὐθὺς ἦν τότε ἀπερυθριᾶσαι μᾶλλον ἢ σχεῖν πράγματα, ὅτε τῶν ἐμαυτοῦ γʼ ἕνεκα νυνὶ χρημάτων ἕλκω σε κλητεύσοντα, καὶ γενήσομαι ἐχθρὸς ἔτι πρὸς τούτοισιν ἀνδρὶ δημότῃ.	0.0642857
+But never, while I live, will I disgrace my country, but will summon Strepsiades.	ἀτὰρ οὐδέποτέ γε τὴν πατρίδα καταισχυνῶ ζῶν, ἀλλὰ καλοῦμαι Στρεψιάδην — τίς οὑτοσί;	-0.0608696
+Who's there? ~~~ For the Old and New.	ἐς τὴν ἕνην τε καὶ νέαν.	-0.06
+I call you to witness, that he has named it for two days.	μαρτύρομαι, ὅτι ἐς δύʼ εἶπεν ἡμέρας.	0.176087
+For what matter do you summon me?	τοῦ χρήματος;	0.264
+For the twelve minae, which you received when you were buying the dapple-gray horse.	τῶν δώδεκα μνῶν, ἃς ἔλαβες ὠνούμενος τὸν ψαρὸν ἵππον.	0.195833
+A horse?	ἵππον;	0.1125
+Do you not hear?	οὐκ ἀκούετε;	0.0857143
+I, whom you all know to hate horsemanship! ~~~ And, by Jupiter!	ὃν πάντες ὑμεῖς ἴστε μισοῦνθʼ ἱππικήν.	-0.0576923
+You swore by the gods too, that you would repay it. ~~~ Ay, by Jove!	καὶ νὴ Δίʼ ἀποδώσειν γʼ ἐπώμνυς τοὺς θεούς.	-0.0638889
+	μὰ τὸν Δίʼ οὐ γάρ πω τότʼ ἐξηπίστατο Φειδιππίδης μοι τὸν ἀκατάβλητον λόγον.	-0.3
+For then my Phidippides did not yet know the irrefragable argument.	νῦν δὲ διὰ τοῦτʼ ἔξαρνος εἶναι διανοεῖ;	0.222414
+And do you now intend, on this account, to deny the debt?	τί γὰρ ἄλλʼ ἂν ἀπολαύσαιμι τοῦ μαθήματος;	0.121277
+Why, what good should I get else from his instruction?	καὶ ταῦτʼ ἐθελήσεις ἀπομόσαι μοι τοὺς θεοὺς ἵνʼ ἂν κελεύσω ʼγώ σε;	-0.169565
+And will you be willing to deny these upon oath of the gods?	τοὺς ποίους θεούς;	0.154545
+What gods? ~~~ Jupiter, Mercury, and Neptune.	τὸν Δία, τὸν Ἑρμῆν, τὸν Ποσειδῶ.	-0.0730769
+Yes, by Jupiter! ~~~ And would pay down, too, a three-obol piece besides to swear.	νὴ Δία κἂν προσκαταθείην γʼ ὥστʼ ὀμόσαι τριώβολον.	-0.0485294
+Then may you perish some day for your impudence!	ἀπόλοιο τοίνυν ἕνεκʼ ἀναιδείας ἔτι.	0.117073
+This man would be the better for it if he were cleansed by rubbing with salt.	ἁλσὶν διασμηχθεὶς ὄναιτʼ ἂν οὑτοσί.	0.27619
+Ah me, how you deride me!	οἴμʼ ὡς καταγελᾷς.	0.1
+He will contain six choae.	ἓξ χοᾶς χωρήσεται.	0.156522
+By great Jupiter and the gods, you certainly shall not do this to me with impunity!	οὔ τοι μὰ τὸν Δία τὸν μέγαν καὶ τοὺς θεοὺς ἐμοῦ καταπροίξει.	0.134783
+I like your gods amazingly; and Jupiter, sworn by, is ridiculous to the knowing ones.	θαυμασίως ἥσθην θεοῖς, καὶ Ζεὺς γέλοιος ὀμνύμενος τοῖς εἰδόσιν.	0.116667
+You will assuredly suffer punishment, some time or other, for this.	ἦ μὴν σὺ τούτων τῷ χρόνῳ δώσεις δίκην.	0.253448
+	ἀλλʼ εἴτʼ ἀποδώσεις μοι τὰ χρήματʼ εἴτε μή, ἀπόπεμψον ἀποκρινάμενος. ~~~ ἔχε νυν ἥσυχος.	-0.3
+But answer and dismiss me, whether you are going to repay me my money or not.	ἐγὼ γὰρ αὐτίκʼ ἀποκρινοῦμαί σοι σαφῶς.	0.252381
+Keep quiet now, for I will presently answer you distinctly.	τί σοι δοκεῖ δράσειν;	0.186486
+(to his summons-witness).	ἀποδώσειν μοι δοκεῖ.	0.125
+What do you think he will do? ~~~ I think he will pay you.	ποῦ ʼσθʼ οὗτος ἁπαιτῶν με τἀργύριον;	-0.0733333
+Where is this man who asks me for his money?	λέγε τουτὶ τί ἔστι;	0.282353
+Tell me what is this? ~~~ What is this?	τοῦθʼ ὅ τι ἐστί;	-0.0103448
+A kardopos.	κάρδοπος.	0.109091
+And do you then ask me for your money, being such an ignorant person?	ἔπειτʼ ἀπαιτεῖς τἀργύριον τοιοῦτος ὤν;	0.210526
+I would not pay, not even an obolus, to any one who called the kardope kardopos.	οὐκ ἂν ἀποδοίην οὐδʼ ἂν ὀβολὸν οὐδενί, ὅστις καλέσειε κάρδοπον τὴν καρδόπην.	-0.0318182
+Then won't you pay me? ~~~ Not, as far as I know.	οὐκ ἄρʼ ἀποδώσεις;	-0.0128571
+Will you not then pack off as fast as possible from my door?	οὐχ ὅσον γέ μʼ εἰδέναι.	0.241463
+I will depart; and be assured of this, that I will make deposit against you, or may I live no longer!	οὔκουν ἀνύσας τι θᾶττον ἀπολιταργιεῖς ἀπὸ τῆς θύρας;	0.241463
+Then you will lose it besides, in addition to your twelve minae.	ἄπειμι, καὶ τοῦτʼ ἴσθʼ ὅτι θήσω πρυτανεῖʼ ἢ μηκέτι ζῴην ἐγώ.	0
+And yet I do not wish you to suffer this, because you named the kardopos floolishly.	καὶ προσαπολεῖς ἄρʼ αὐτὰ πρὸς ταῖς δώδεκα.	0.261429
+	καίτοι σε τοῦτό γʼ οὐχὶ βούλομαι παθεῖν, ὁτιὴ ʼκάλεσας εὐηθικῶς τὴν κάρδοπον.	-0.3

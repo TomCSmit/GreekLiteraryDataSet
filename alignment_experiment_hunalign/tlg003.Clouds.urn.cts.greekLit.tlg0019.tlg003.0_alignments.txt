@@ -1,0 +1,21 @@
+Ah me! ~~~ Ah me!	ἰοὺ ἰού·	-0.0576923
+O King Jupiter, of what a terrible length the nights are!	ὦ Ζεῦ βασιλεῦ τὸ χρῆμα τῶν νυκτῶν ὅσον·	0.14375
+Will it never be day?	ἀπέραντον.	0.25
+And yet long since I heard the cock.	οὐδέποθʼ ἡμέρα γενήσεται;	0.12
+My domestics are snoring; but they would not have done so heretofore!	καὶ μὴν πάλαι γʼ ἀλεκτρυόνος ἤκουσʼ ἐγώ·	0.223729
+May you perish then, O war!	οἱ δʼ οἰκέται ῥέγκουσιν·	0
+For many reasons; because I may not even punish my domestics.	ἀλλʼ οὐκ ἂν πρὸ τοῦ.	0.178378
+Neither does this excellent youth awake through the night; but takes his ease, wrapped up in five blankets.	ἀπόλοιο δῆτʼ ὦ πόλεμε πολλῶν οὕνεκα, ὅτʼ οὐδὲ κολάσʼ ἔξεστί μοι τοὺς οἰκέτας.	0.138462
+	ἀλλʼ οὐδʼ ὁ χρηστὸς οὑτοσὶ νεανίας ἐγείρεται τῆς νυκτός, ἀλλὰ πέρδεται ἐν πέντε σισύραις ἐγκεκορδυλημένος.	-0.3
+Well, if it is the fashion, let us snore wrapped up.	ἀλλʼ εἰ δοκεῖ ῥέγκωμεν ἐγκεκαλυμμένοι.	0.0906977
+But I am not able, miserable man, to sleep, being tormented by my expenses, and my stud of horses, and my debts, through this son of mine.	ἀλλʼ οὐ δύναμαι δείλαιος εὕδειν δακνόμενος ὑπὸ τῆς δαπάνης καὶ τῆς φάτνης καὶ τῶν χρεῶν διὰ τουτονὶ τὸν υἱόν.	0.0769912
+He with his long hair, is riding horses and driving curricles, and dreaming of horses; while I am driven to distraction, as I see the moon bringing on the twentieths; for the interest is running on. ~~~ Boy!	ὁ δὲ κόμην ἔχων ἱππάζεταί τε καὶ ξυνωρικεύεται ὀνειροπολεῖ θʼ ἵππους·	-0.0437008
+Light a lamp, and bring forth my tablets, that I may take them and read to how many I am indebted, and calculate the interest.	ἐγὼ δʼ ἀπόλλυμαι ὁρῶν ἄγουσαν τὴν σελήνην εἰκάδας·	0.274737
+Come, let me see; what do I owe?	οἱ γὰρ τόκοι χωροῦσιν.	0.126923
+	ἅπτε παῖ λύχνον, κἄκφερε τὸ γραμματεῖον, ἵνʼ ἀναγνῶ λαβὼν ὁπόσοις ὀφείλω καὶ λογίσωμαι τοὺς τόκους.	-0.3
+Twelve minae to Pasias.	φέρʼ ἴδω τί ὀφείλω;	0.114286
+Why twelve minae to Pasias?	δώδεκα μνᾶς Πασίᾳ.	0.175
+Why did I borrow them? ~~~ When I bought the blood-horse.	τοῦ δώδεκα μνᾶς Πασίᾳ;	-0.0219512
+Ah me, unhappy!	τί ἐχρησάμην;	0.0642857
+Would that it had had its eye knocked out with a stone first!	ὅτʼ ἐπριάμην τὸν κοππατίαν.	0.294
+	οἴμοι τάλας, εἴθʼ ἐξεκόπην πρότερον τὸν ὀφθαλμὸν λίθῳ.	-0.3

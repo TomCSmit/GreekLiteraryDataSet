@@ -1,0 +1,58 @@
+Why then do we admire Thales?	τί δῆτʼ ἐκεῖνον τὸν Θαλῆν θαυμάζομεν;	-0.228
+Open open quickly the thinking-shop, and show to me Socrates as quickly as possible.	ἄνοιγʼ ἄνοιγʼ ἀνύσας τὸ φροντιστήριον, καὶ δεῖξον ὡς τάχιστά μοι τὸν Σωκράτη.	0.0208333
+For I desire to be a disciple.	μαθητιῶ γάρ·	0.2875
+Come, open the door.	ἀλλʼ ἄνοιγε τὴν θύραν.	-0.0833333
+O Hercules, from what country are these wild beasts?	ὦ Ἡράκλεις ταυτὶ ποδαπὰ τὰ θηρία;	0.193333
+What do you wonder at?	τί ἐθαύμασας;	0.205263
+To what do they seem to you to be like?	τῷ σοι δοκοῦσιν εἰκέναι;	0.164516
+To the Spartans who were taken at Pylos .	τοῖς ἐκ Πύλου ληφθεῖσι τοῖς Λακωνικοῖς.	-0.0441176
+	ἀτὰρ τί ποτʼ ἐς τὴν γῆν βλέπουσιν οὑτοιί;	-0.3
+But why in the world do these look upon the ground?	ζητοῦσιν οὗτοι τὰ κατὰ γῆς.	0.235714
+They are in search of the things below the earth.	βολβοὺς ἄρα ζητοῦσι.	0.284615
+Then they are searching for roots.	μή νυν τουτογὶ φροντίζετε·	0.12
+Do not, then, trouble yourselves about this; for I know where there are large and fine ones.	ἐγὼ γὰρ οἶδʼ ἵνʼ εἰσὶ μεγάλοι καὶ καλοί.	0.287838
+Why, what are these doing, who are bent down so much?	τί γὰρ οἵδε δρῶσιν οἱ σφόδρʼ ἐγκεκυφότες;	0.0886364
+These are groping about in darkness under Tartarus.	οὗτοι δʼ ἐρεβοδιφῶσιν ὑπὸ τὸν Τάρταρον.	0.106667
+Why then does their rump look toward heaven?	τί δῆθʼ ὁ πρωκτὸς ἐς τὸν οὐρανὸν βλέπει;	0.0236842
+	αὐτὸς καθʼ αὑτὸν ἀστρονομεῖν διδάσκεται.	-0.3
+It is getting taught astronomy alone by itself.	ἀλλʼ εἴσιθʼ, ἵνα μὴ ʼκεῖνος ὑμῖν ἐπιτύχῃ.	0.0292683
+But go in, lest he meet with us.	μήπω γε μήπω γʼ·	0.288462
+Not yet, not yet; but let them remain, that I may communicate to them a little matter of my own.	ἀλλʼ ἐπιμεινάντων, ἵνα αὐτοῖσι κοινώσω τι πραγμάτιον ἐμόν.	0.188462
+It is not permitted to them to remain without in the open air for a very long time.	ἀλλʼ οὐχ οἷόν τʼ αὐτοῖσι πρὸς τὸν ἀέρα ἔξω διατρίβειν πολὺν ἄγαν ἐστὶν χρόνον.	-0.0402985
+(discovering a variety of mathematical instruments) Why, what is this, in the name of heaven?	πρὸς τῶν θεῶν τί γὰρ τάδʼ ἐστίν;	0.178947
+Tell me.	εἰπέ μοι.	-0.0375
+This is Astronomy.	ἀστρονομία μὲν αὑτηί.	-0.123529
+But what is this?	τουτὶ δὲ τί;	0.16
+Geometry.	γεωμετρία.	0
+	τοῦτʼ οὖν τί ἐστι χρήσιμον;	-0.3
+What then is the use of this?	γῆν ἀναμετρῆσαι.	0.1875
+To measure out the land.	πότερα τὴν κληρουχικήν;	-0.0142857
+What belongs to an allotment?	οὔκ, ἀλλὰ τὴν σύμπασαν.	0.103846
+No, but the whole earth.	ἀστεῖον λέγεις.	0.171429
+You tell me a clever notion; for the contrivance is democratic and useful.	τὸ γὰρ σόφισμα δημοτικὸν καὶ χρήσιμον.	0.266667
+See, here's a map of the whole earth.	αὕτη δέ σοι γῆς περίοδος πάσης.	0.0774194
+Do you see?	ὁρᾷς;	0.24
+This is Athens .	αἵδε μὲν Ἀθῆναι.	-0.0857143
+What say you?	τί σὺ λέγεις;	0.025
+	οὐ πείθομαι, ἐπεὶ δικαστὰς οὐχ ὁρῶ καθημένους.	-0.3
+I don't believe you; for I do not see the Dicasts sitting.	ὡς τοῦτʼ ἀληθῶς Ἀττικὸν τὸ χωρίον.	0.19375
+Be assured that this is truly the Attic territory.	καὶ ποῦ Κικυννῆς εἰσὶν οὑμοὶ δημόται;	0.104651
+Why, where are my fellow-tribesmen of Cicynna?	ἐνταῦθʼ ἔνεισιν.	0.227273
+	ἡ δέ γʼ Εὔβοἰ, ὡς ὁρᾷς, ἡδὶ παρατέταται μακρὰ πόρρω πάνυ.	-0.3
+Here they are.	οἶδʼ·	0.275
+And Euboea here, as you see, is stretched out a long way by the side of it to a great distance.	ὑπὸ γὰρ ἡμῶν παρετάθη καὶ Περικλέους.	0.274286
+I know that; for it was stretched by us and Pericles.	ἀλλʼ ἡ Λακεδαίμων ποῦ ʼσθʼ;	0.265909
+But where is Lacedaemon ?	ὅπου ʼστίν;	0.285714
+Where is it?	αὑτηί.	0.245455
+Here it is. ~~~ How near it is to us!	ὡς ἐγγὺς ἡμῶν.	-0.00535714
+Pay great attention to this, to remove it very far from us.	τοῦτο πάνυ φροντίζετε, ταύτην ἀφʼ ἡμῶν ἀπαγαγεῖν πόρρω πάνυ.	-0.0673469
+By Jupiter, it is not possible.	ἀλλʼ οὐχ οἷόν τε.	0.255556
+Then you will weep for it.	νὴ Δίʼ οἰμώξεσθʼ ἄρα.	0.0681818
+Come, who is this man who is in the basket?	φέρε τίς γὰρ οὗτος οὑπὶ τῆς κρεμάθρας ἀνήρ;	-0.0685714
+Himself.	αὐτός.	0.166667
+Who's Himself ?	τίς αὐτός;	0.192857
+Socrates.	Σωκράτης.	0.06
+O Socrates!	ὦ Σώκρατες.	0.0272727
+Come, you sir, call upon him loudly for me.	ἴθʼ οὗτος, ἀναβόησον αὐτόν μοι μέγα.	0.0583333
+Nay, rather, call him yourself; for I have no leisure.	αὐτὸς μὲν οὖν σὺ κάλεσον·	0.286957
+	οὐ γάρ μοι σχολή.	-0.3

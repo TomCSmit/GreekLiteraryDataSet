@@ -1,0 +1,31 @@
+How, when engaged in a lawsuit, you could overturn the suit, when you were about to be cast, because you had no witnesses.	ὅπως ἀποστρέψαιʼ ἂν ἀντιδικῶν δίκην μέλλων ὀφλήσειν μὴ παρόντων μαρτύρων.	0.19901
+Most readily and easily.	φαυλότατα καὶ ῥᾷστʼ.	0.0681818
+Tell me, pray.	εἰπὲ δή.	0.230769
+Well now, I'll tell you.	καὶ δὴ λέγω.	0.285714
+If, while one suit was still pending, before mine was called on, I were to run away and hang myself.	εἰ πρόσθεν ἔτι μιᾶς ἐνεστώσης δίκης, πρὶν τὴν ἐμὴν καλεῖσθʼ, ἀπαγξαίμην τρέχων.	0.0731707
+You talk nonsense.	οὐδὲν λέγεις.	0.141176
+	νὴ τοὺς θεοὺς ἔγωγʼ, ἐπεὶ οὐδεὶς κατʼ ἐμοῦ τεθνεῶτος εἰσάξει δίκην.	-0.3
+By the gods, would I!	ὑθλεῖς·	0.282353
+For no one will bring action against me when I am dead.	ἄπερρʼ, οὐκ ἂν διδάξαιμʼ ἄν σʼ ἔτι.	0.186667
+You talk nonsense.	ὁτιὴ τί;	0.28125
+Begone; I can't teach you any longer. ~~~ Why so?	ναὶ πρὸς τῶν θεῶν ὦ Σώκρατες.	-0.04875
+Yea, by the gods, O Socrates! ~~~ You straightaway forget whatever you learn.	ἀλλʼ εὐθὺς ἐπιλήθει σύ γʼ ἅττʼ ἂν καὶ μάθῃς·	-0.0369231
+For what now was the first thing you were taught?	ἐπεὶ τί νυνὶ πρῶτον ἐδιδάχθης;	0.182927
+Tell me.	λέγε.	0.225
+Come, let me see: nay, what was the first?	φέρʼ ἴδω τί μέντοι πρῶτον ἦν;	0.162857
+What was the fist?	τί πρῶτον ἦν;	0.15
+Nay, what was the thing in which we knead our flour?	τίς ἦν ἐν ᾗ ʼματτόμεθα μέντοι τἄλφιτα;	0.125581
+Ah me! ~~~ What was it?	οἴμοι τίς ἦν;	-0.05
+Will you not pack off to the devil, you most forgetful and most stupid old man?	οὐκ ἐς κόρακας ἀποφθερεῖ, ἐπιλησμότατον καὶ σκαιότατον γερόντιον;	0.0415385
+Ah me, what then, pray will become of me, wretched man?	οἴμοι τί οὖν δῆθʼ ὁ κακοδαίμων πείσομαι;	0.130435
+For I shall be utterly undone, if I do not learn to ply the tongue.	ἀπὸ γὰρ ὀλοῦμαι μὴ μαθὼν γλωττοστροφεῖν.	0.166667
+Come, O ye Clouds, give me some good advice.	ἀλλʼ ὦ Νεφέλαι χρηστόν τι συμβουλεύσατε.	0.0162162
+	ἡμεῖς μὲν ὦ πρεσβῦτα συμβουλεύομεν, εἴ σοί τις υἱός ἐστιν ἐκτεθραμμένος, πέμπειν ἐκεῖνον ἀντὶ σαυτοῦ μανθάνειν.	-0.3
+We, old man, advise you, if you have a son grown up, to send him to learn in your stead.	ἀλλʼ ἔστʼ ἔμοιγʼ υἱὸς καλός τε κἀγαθός·	0.287143
+Well, I have a fine, handsome son, but he is not willing to learn.	ἀλλʼ οὐκ ἐθέλει γὰρ μανθάνειν.	0.288889
+What must I do?	τί ἐγὼ πάθω;	0.0923077
+But do you permit him?	σὺ δʼ ἐπιτρέπεις;	0.0947368
+Yes, for he is robust in body, and in good health, and is come of the high-plumed dames of Coesyra.	εὐσωματεῖ γὰρ καὶ σφριγᾷ, κἄστʼ ἐκ γυναικῶν εὐπτέρων τῶν Κοισύρας.	0.144444
+	ἀτὰρ μέτειμί γʼ αὐτόν·	-0.3
+I will go for him, and if he be not willing, I will certainly drive him from my house.	ἢν δὲ μὴ ʼθέλῃ, οὐκ ἔσθʼ ὅπως οὐκ ἐξελῶ κʼ τῆς οἰκίας.	0.178261
+Go in and wait for me a short time.	ἀλλʼ ἐπανάμεινόν μʼ ὀλίγον εἰσελθὼν χρόνον.	-0.267857

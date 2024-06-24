@@ -1,0 +1,9 @@
+We wish to speak about the judges, what they will gain, if at all they justly assist this Chorus.	τοὺς κριτὰς ἃ κερδανοῦσιν, ἤν τι τόνδε τὸν χορὸν ὠφελῶσʼ ἐκ τῶν δικαίων, βουλόμεσθʼ ἡμεῖς φράσαι.	-0.05625
+For in the first place, if you wish to plough up your fields in spring, we will rain for you first; but for the others afterward.	πρῶτα μὲν γάρ, ἢν νεᾶν βούλησθʼ ἐν ὥρᾳ τοὺς ἀγρούς, ὕσομεν πρώτοισιν ὑμῖν, τοῖσι δʼ ἄλλοις ὕστερον.	0.0914286
+And then we will protect the fruits, and the vines, so that neither drought afflict them, nor excessive wet weather.	εἶτα τὸν καρπὸν τεκούσας ἀμπέλους φυλάξομεν, ὥστε μήτʼ αὐχμὸν πιέζειν μήτʼ ἄγαν ἐπομβρίαν.	0.0979592
+	ἢν δʼ ἀτιμάσῃ τις ἡμᾶς θνητὸς ὢν οὔσας θεάς, προσεχέτω τὸν νοῦν, πρὸς ἡμῶν οἷα πείσεται κακά, λαμβάνων οὔτʼ οἶνον οὔτʼ ἄλλʼ οὐδὲν ἐκ τοῦ χωρίου.	-0.3
+But if any mortal dishonour us who are goddesses, let him consider what evils he will suffer at our hands, obtaining neither wine nor anything else from his farm.	ἡνίκʼ ἂν γὰρ αἵ τʼ ἐλαῖαι βλαστάνωσʼ αἵ τʼ ἄμπελοι, ἀποκεκόψονται·	0.265289
+For when his olives and vines sprout, they shall be cut down; with such slings will we smite them.	τοιαύταις σφενδόναις παιήσομεν.	0.181034
+	ἢν δὲ πλινθεύοντʼ ἴδωμεν, ὕσομεν καὶ τοῦ τέγους τὸν κέραμον αὐτοῦ χαλάζαις στρογγύλαις συντρίψομεν.	-0.3
+And if we see him making brick, we will rain; and we will smash the tiles of his roof with round hailstones.	κἂν γαμῇ ποτʼ αὐτὸς ἢ τῶν ξυγγενῶν ἢ τῶν φίλων, ὕσομεν τὴν νύκτα πᾶσαν·	0.163636
+And if he himself, or any one of his kindred or friends, at any time marry, we will rain the whole night; so he will probably wish rather to have been even in Egypt than to have judged badly.	ὥστʼ ἴσως βουλήσεται κἂν ἐν Αἰγύπτῳ τυχεῖν ὢν μᾶλλον ἢ κρῖναι κακῶς.	0.233333
